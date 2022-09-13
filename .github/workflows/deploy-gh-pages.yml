@@ -54,7 +54,6 @@ jobs:
         if: ${{ steps.commit.outputs.committed == 'true' }}
         with:
           path: api
-      - name:
+      - uses: actions/deploy-pages@v1
         if: ${{ steps.commit.outputs.committed == 'true' }}
         id: deployment
-        uses: actions/deploy-pages@v1

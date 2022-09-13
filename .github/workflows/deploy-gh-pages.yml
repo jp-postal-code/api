@@ -1,0 +1,48 @@
+name: Deploy Github Pages
+
+on:
+  push:
+    branches:
+      - main
+      - update-workflow
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'yarn'
+      - name: Install node_modules
+        run: yarn --check-files --frozen-lockfile --non-interactive --production
+      - name: Generate API
+        run: |
+          rm -rf api
+          yarn adg generate api ./api --pretty
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.14.1
+        with:
+          commit_message: 'fix: update addresses'
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: api
+      - name:
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v1

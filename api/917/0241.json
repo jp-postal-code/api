@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "池田",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "イケダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "市場",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "イチバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "遠敷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "オニュウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "検見坂",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ケンミザカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "シマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170241",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "中村",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ナカムラ",
+    "address2Kana": ""
+  }
+]

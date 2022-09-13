@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9191135",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "三方郡美浜町",
+    "address1": "五十谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ミカタグンミハマチョウ",
+    "address1Kana": "イサダニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9191135",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "三方郡美浜町",
+    "address1": "安江",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ミカタグンミハマチョウ",
+    "address1Kana": "ヤスエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9191135",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "三方郡美浜町",
+    "address1": "寄戸",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ミカタグンミハマチョウ",
+    "address1Kana": "ヨリト",
+    "address2Kana": ""
+  }
+]

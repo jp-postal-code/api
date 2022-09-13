@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9103266",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "足谷町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "アシタニチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9103266",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "猫瀬町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "ネコセチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9103266",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "東平町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "ヒガシダイラチョウ",
+    "address2Kana": ""
+  }
+]

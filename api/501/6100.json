@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5016100",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "羽島郡岐南町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ハシマグンギナンチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016100",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "羽島郡笠松町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ハシマグンカサマツチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

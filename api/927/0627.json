@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9270627",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "滝之坊",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "タキノボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270627",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "福光",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "フクミツ",
+    "address2Kana": ""
+  }
+]

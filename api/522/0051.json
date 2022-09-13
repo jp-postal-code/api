@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5220051",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "彦根市",
+    "address1": "中藪",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "ヒコネシ",
+    "address1Kana": "ナカヤブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5220051",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "彦根市",
+    "address1": "中藪町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "ヒコネシ",
+    "address1Kana": "ナカヤブチョウ",
+    "address2Kana": ""
+  }
+]

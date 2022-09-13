@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9870113",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "渋江",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "シブエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870113",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "古道下二本杉",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "フルミチシタニホンスギ",
+    "address2Kana": ""
+  }
+]

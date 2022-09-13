@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391831",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "千福",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "センプク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391831",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "千福新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "センプクシン",
+    "address2Kana": ""
+  }
+]

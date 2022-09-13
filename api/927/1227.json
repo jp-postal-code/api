@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271227",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町大町泥木",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチオオマチドロノキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271227",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町二艘丹",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチニソウフネ",
+    "address2Kana": ""
+  }
+]

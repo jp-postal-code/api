@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4910838",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "一宮市",
+    "address1": "猿海道",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "イチノミヤシ",
+    "address1Kana": "サルカイドウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4910838",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "一宮市",
+    "address1": "丹陽町猿海道",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "イチノミヤシ",
+    "address1Kana": "タンヨウチョウサルガイドウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391837",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "大宮野新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "オオミヤノシン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391837",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "西原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "ニシハラ",
+    "address2Kana": ""
+  }
+]

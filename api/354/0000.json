@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3540000",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "富士見市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "フジミシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3540000",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "入間郡三芳町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "イルマグンミヨシマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

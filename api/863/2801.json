@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8632801",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "天草市",
+    "address1": "天草町大江",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "アマクサシ",
+    "address1Kana": "アマクサマチオオエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8632801",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "天草市",
+    "address1": "天草町大江軍浦",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "アマクサシ",
+    "address1Kana": "アマクサマチオオエイクサガウラ",
+    "address2Kana": ""
+  }
+]

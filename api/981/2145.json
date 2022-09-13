@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9812145",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "川田島",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カワダシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812145",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "川田島菅",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カワダシマスゲ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812145",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "川端",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カワバタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812145",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "五本松",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ゴホンマツ",
+    "address2Kana": ""
+  }
+]

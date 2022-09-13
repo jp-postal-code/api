@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9104272",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "あわら市",
+    "address1": "北潟",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "アワラシ",
+    "address1Kana": "キタガタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9104272",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "あわら市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "アワラシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

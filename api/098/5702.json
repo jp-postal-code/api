@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0985702",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "豊牛",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "トヨウシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0985702",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "豊寒別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "トヨカンベツ",
+    "address2Kana": ""
+  }
+]

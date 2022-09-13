@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870346",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町白鳥山",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシラトリヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870346",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町白鳥",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシロトリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870346",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町白鳥前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシロトリマエ",
+    "address2Kana": ""
+  }
+]

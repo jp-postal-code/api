@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391716",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "荒見崎",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "アラミサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391716",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "梅原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "ウメハラ",
+    "address2Kana": ""
+  }
+]

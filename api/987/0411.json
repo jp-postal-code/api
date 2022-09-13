@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870411",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町天沼",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチアマヌマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870411",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町瀬ノ淵",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチセノフチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870411",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町寺袋",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチテラブクロ",
+    "address2Kana": ""
+  }
+]

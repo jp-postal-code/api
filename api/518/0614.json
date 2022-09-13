@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5180614",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "名張市",
+    "address1": "美旗町池の台東",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ナバリシ",
+    "address1Kana": "ミハタチョウイケノダイヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5180614",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "名張市",
+    "address1": "美旗町池の台西",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ナバリシ",
+    "address1Kana": "ミハタチョウイケノダイニシ",
+    "address2Kana": ""
+  }
+]

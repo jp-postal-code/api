@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0880344",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "左股",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ヒダリマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880344",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "二股",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "フタマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880344",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "右股",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ミギマタ",
+    "address2Kana": ""
+  }
+]

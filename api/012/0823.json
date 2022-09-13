@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0120823",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "湯沢市",
+    "address1": "湯ノ上山",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ユザワシ",
+    "address1Kana": "ユノカミヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0120823",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "湯沢市",
+    "address1": "湯ノ原",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ユザワシ",
+    "address1Kana": "ユノハラ",
+    "address2Kana": ""
+  }
+]

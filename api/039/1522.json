@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0391522",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "小渡",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "コワタリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391522",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "小渡頭",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "コワタリガシラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391522",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "徳良窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "トクラクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391522",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "苗代沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ナシロザワ",
+    "address2Kana": ""
+  }
+]

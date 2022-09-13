@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9320304",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町小牧",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチコマキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320304",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町前山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチマエヤマ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0360113",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "平田森稲村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒラタモリイナムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360113",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "平田森上宮本",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒラタモリカミミヤモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360113",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "平田森下宮本",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒラタモリシモミヤモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360113",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "平田森前田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒラタモリマエダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360113",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "平田森若松",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒラタモリワカマツ",
+    "address2Kana": ""
+  }
+]

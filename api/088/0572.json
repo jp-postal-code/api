@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0880572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西一条南",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ1ジョウミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西二条南",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ2ジョウミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西三条南",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ3ジョウミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西四条南",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ4ジョウミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西五条南",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ5ジョウミナミ",
+    "address2Kana": ""
+  }
+]

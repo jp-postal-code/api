@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392622",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "浜家苫",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ハマケトバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392622",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "船ケ沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "フネガサワ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6730012",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "明石市",
+    "address1": "和坂",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アカシシ",
+    "address1Kana": "カニガサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6730012",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "明石市",
+    "address1": "和坂",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アカシシ",
+    "address1Kana": "ワサカ",
+    "address2Kana": ""
+  }
+]

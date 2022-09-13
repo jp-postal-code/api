@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9290328",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "河北郡津幡町",
+    "address1": "湖東",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カホクグンツバタマチ",
+    "address1Kana": "コトウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9290328",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "河北郡津幡町",
+    "address1": "舟橋",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カホクグンツバタマチ",
+    "address1Kana": "フナバシ",
+    "address2Kana": ""
+  }
+]

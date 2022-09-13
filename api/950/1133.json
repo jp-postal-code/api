@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9501133",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "嘉木",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "カギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9501133",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市江南区",
+    "address1": "嘉木",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシコウナンク",
+    "address1Kana": "カギ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9330853",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "上黒田",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "カミクロダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330853",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "上黒田新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "カミクロダシン",
+    "address2Kana": ""
+  }
+]

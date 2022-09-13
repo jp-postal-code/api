@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0160167",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "能代市",
+    "address1": "塩干田",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ノシロシ",
+    "address1Kana": "シオカラダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0160167",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "能代市",
+    "address1": "塩干田前",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ノシロシ",
+    "address1Kana": "シオカラダマエ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3990744",
+    "regionId": 20,
+    "region": "長野県",
+    "locality": "塩尻市",
+    "address1": "大門七区",
+    "address2": "",
+    "regionKana": "ナガノケン",
+    "localityKana": "シオジリシ",
+    "address1Kana": "ダイモン7ク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3990744",
+    "regionId": 20,
+    "region": "長野県",
+    "locality": "塩尻市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナガノケン",
+    "localityKana": "シオジリシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

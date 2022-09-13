@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6310061",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "奈良市",
+    "address1": "三碓",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ナラシ",
+    "address1Kana": "ミツガラス",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6310061",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "奈良市",
+    "address1": "三碓町",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ナラシ",
+    "address1Kana": "ミツガラスチョウ",
+    "address2Kana": ""
+  }
+]

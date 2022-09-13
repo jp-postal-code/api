@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870376",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町新細沼",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシンホソヌマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870376",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町細沼",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウホソヌマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870376",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町細沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウホソヌマタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9370068",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "魚津市",
+    "address1": "本新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ウオヅシ",
+    "address1Kana": "モトシン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9370068",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "魚津市",
+    "address1": "本新町",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ウオヅシ",
+    "address1Kana": "モトシンマチ",
+    "address2Kana": ""
+  }
+]

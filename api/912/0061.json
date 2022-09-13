@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120061",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "篠座",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シノクラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120061",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "篠座町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シノクラチョウ",
+    "address2Kana": ""
+  }
+]

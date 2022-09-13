@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9691176",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮赤坂",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤアカサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691176",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮地蔵堂",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤジゾウドウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6700943",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "姫路市",
+    "address1": "市之郷",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ヒメジシ",
+    "address1Kana": "イチノゴウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6700943",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "姫路市",
+    "address1": "市之郷町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ヒメジシ",
+    "address1Kana": "イチノゴウチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町落シ",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチオトシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町隠尾",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチカクリョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町名ケ原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチミョウガハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町湯谷",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチユダニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町湯山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチユヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320303",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "庄川町横住",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ショウガワマチヨコズミ",
+    "address2Kana": ""
+  }
+]

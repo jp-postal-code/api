@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4800100",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "丹羽郡大口町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ニワグンオオグチチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4800100",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "丹羽郡扶桑町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ニワグンフソウチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

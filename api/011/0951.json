@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0110951",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "秋田市",
+    "address1": "土崎港相染町",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "アキタシ",
+    "address1Kana": "ツチザキミナトソウゼンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0110951",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "秋田市",
+    "address1": "土崎港古川町",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "アキタシ",
+    "address1Kana": "ツチザキミナトフルカワマチ",
+    "address2Kana": ""
+  }
+]

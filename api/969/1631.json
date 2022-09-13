@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9691631",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "白銀",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "シロガネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691631",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "薮内",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "ヤブウチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696541",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "上四十石甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "カミシジュツコクコウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696541",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "四十石",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "シジュツコク",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6293424",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町旭",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウアサヒ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293424",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町蒲井",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウカマイ",
+    "address2Kana": ""
+  }
+]

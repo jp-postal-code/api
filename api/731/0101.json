@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7310101",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "八木",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "ヤギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7310101",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "八木町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "ヤギチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0720819",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "美唄市",
+    "address1": "共練町東",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ビバイシ",
+    "address1Kana": "キョウレンチョウヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0720819",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "美唄市",
+    "address1": "共練町西",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ビバイシ",
+    "address1Kana": "キョウレンチョウニシ",
+    "address2Kana": ""
+  }
+]

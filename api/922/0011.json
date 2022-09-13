@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9220011",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺春日町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジカスガチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220011",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺敷地",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジシキジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220011",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺東敷地町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジヒガシシキジマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220011",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺平床",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジヒラトコ",
+    "address2Kana": ""
+  }
+]

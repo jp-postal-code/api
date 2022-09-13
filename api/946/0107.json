@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9460107",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "雁坂下",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "ガンザカシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460107",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "清本",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "キヨモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460107",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "下田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "シモダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460107",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "長堀新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "ナガホリシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460107",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "横瀬",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "ヨコゼ",
+    "address2Kana": ""
+  }
+]

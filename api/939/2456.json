@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392456",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町正間",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチマサマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392456",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町茗ケ島",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチミョウガジマ",
+    "address2Kana": ""
+  }
+]

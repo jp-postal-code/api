@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9201106",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "戸室別所",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "トムロベッショ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201106",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "湯谷原町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "ユヤガハラマチ",
+    "address2Kana": ""
+  }
+]

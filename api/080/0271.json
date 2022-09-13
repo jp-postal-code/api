@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0800271",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河東郡音更町",
+    "address1": "長流枝",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カトウグンオトフケチョウ",
+    "address1Kana": "オサルシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0800271",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河東郡音更町",
+    "address1": "長流枝幹線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カトウグンオトフケチョウ",
+    "address1Kana": "オサルシカンセン",
+    "address2Kana": ""
+  }
+]

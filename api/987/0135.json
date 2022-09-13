@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9870135",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "小蓋谷地",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "コブタヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870135",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "三十軒",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "サンジュッケン",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8950072",
+    "regionId": 46,
+    "region": "鹿児島県",
+    "locality": "薩摩川内市",
+    "address1": "中郷",
+    "address2": "",
+    "regionKana": "カゴシマケン",
+    "localityKana": "サツマセンダイシ",
+    "address1Kana": "チュウゴウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8950072",
+    "regionId": 46,
+    "region": "鹿児島県",
+    "locality": "薩摩川内市",
+    "address1": "中郷町",
+    "address2": "",
+    "regionKana": "カゴシマケン",
+    "localityKana": "サツマセンダイシ",
+    "address1Kana": "チュウゴウチョウ",
+    "address2Kana": ""
+  }
+]

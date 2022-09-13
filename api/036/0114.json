@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居稲村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイイナムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居稲元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイイナモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居西田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイニシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居南田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイミナミタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居山下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイヤマシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居山元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイヤマモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360114",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "町居横山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "マチイヨコヤマ",
+    "address2Kana": ""
+  }
+]

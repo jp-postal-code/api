@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "7530872",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "朝田流通センター",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "アサダリュウツウセンター",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530872",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "小郡上郷流通センター",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "オゴオリカミゴウリュウツウセンター",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530872",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "山口県流通センター",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "ヤマグチケンリュウツウセンター",
+    "address2Kana": ""
+  }
+]

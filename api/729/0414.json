@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7290414",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "下北方",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "シモキタガタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7290414",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "本郷町下北方",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "ホンゴウチョウシモキタガタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9693521",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町岡ノ前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチオカノマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693521",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町東岡",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチヒガシオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693521",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町身神",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチミカミ",
+    "address2Kana": ""
+  }
+]

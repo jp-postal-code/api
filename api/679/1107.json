@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6791107",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "多可郡多可町",
+    "address1": "中区奥中",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "タカグンタカチョウ",
+    "address1Kana": "ナカクオクナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6791107",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "多可郡多可町",
+    "address1": "中区徳畑",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "タカグンタカチョウ",
+    "address1Kana": "ナカクトクバタ",
+    "address2Kana": ""
+  }
+]

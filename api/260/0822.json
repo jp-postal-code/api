@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "2600822",
+    "regionId": 12,
+    "region": "千葉県",
+    "locality": "千葉市中央区",
+    "address1": "蘇我",
+    "address2": "",
+    "regionKana": "チバケン",
+    "localityKana": "チバシチュウオウク",
+    "address1Kana": "ソガ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "2600822",
+    "regionId": 12,
+    "region": "千葉県",
+    "locality": "千葉市中央区",
+    "address1": "蘇我町",
+    "address2": "",
+    "regionKana": "チバケン",
+    "localityKana": "チバシチュウオウク",
+    "address1Kana": "ソガチョウ",
+    "address2Kana": ""
+  }
+]

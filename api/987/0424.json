@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町風張",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチカザハリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町館浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチタテウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町細川",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチホソカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町細川浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチホソカワウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町細川前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチホソカワマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町南沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチミナミザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870424",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町南細川",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチミナミホソカワ",
+    "address2Kana": ""
+  }
+]

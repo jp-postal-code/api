@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0393157",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "獅子沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "シシザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393157",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "松ノ木",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "マツノキ",
+    "address2Kana": ""
+  }
+]

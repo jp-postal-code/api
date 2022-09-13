@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9872147",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "高清水観音沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "タカシミズカンノンザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872147",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "高清水観音堂",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "タカシミズカンノンドウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9460105",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "金ケ沢",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "カネガサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460105",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "宮沢新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "ミヤザワシンデン",
+    "address2Kana": ""
+  }
+]

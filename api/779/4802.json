@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町井関",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウイゼキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町岡野前",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウオカノマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町御領田",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウゴリョウデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町流堂",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウナガレドウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町野津後",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウノツゴ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7794802",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "井川町向坂",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "イカワチョウムコウザカ",
+    "address2Kana": ""
+  }
+]

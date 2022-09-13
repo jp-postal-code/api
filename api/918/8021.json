@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9188021",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "門前",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "モンゼン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9188021",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "門前町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "モンゼンチョウ",
+    "address2Kana": ""
+  }
+]

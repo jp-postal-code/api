@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0880343",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "上茶路",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "カミチャロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880343",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "新縫別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "シンヌイベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880343",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "縫別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ヌイベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880343",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "南大曲",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ミナミオオマガリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880343",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "南上茶路",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ミナミカミチャロ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9501261",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市南区",
+    "address1": "味方",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシミナミク",
+    "address1Kana": "アジカタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9501261",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西蒲区",
+    "address1": "味方",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシカンク",
+    "address1Kana": "アジカタ",
+    "address2Kana": ""
+  }
+]

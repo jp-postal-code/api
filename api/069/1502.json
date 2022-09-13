@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0691502",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡栗山町",
+    "address1": "鳩山",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンクリヤマチョウ",
+    "address1Kana": "ハトヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0691502",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡栗山町",
+    "address1": "森",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンクリヤマチョウ",
+    "address1Kana": "モリ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0791572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "富良野市",
+    "address1": "山部西２０線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フラノシ",
+    "address1Kana": "ヤマベニシ20セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0791572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "富良野市",
+    "address1": "山部西２１線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フラノシ",
+    "address1Kana": "ヤマベニシ21セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0791572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "富良野市",
+    "address1": "山部西２２線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フラノシ",
+    "address1Kana": "ヤマベニシ22セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0791572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "富良野市",
+    "address1": "山部西２３線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フラノシ",
+    "address1Kana": "ヤマベニシ23セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0791572",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "富良野市",
+    "address1": "山部西２４線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フラノシ",
+    "address1Kana": "ヤマベニシ24セン",
+    "address2Kana": ""
+  }
+]

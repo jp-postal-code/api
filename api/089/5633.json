@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0895633",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "常豊",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "ツネトヨ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0895633",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "常室",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "トコムロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0895633",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "福山",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "フクヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0895633",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "円山",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "マルヤマ",
+    "address2Kana": ""
+  }
+]

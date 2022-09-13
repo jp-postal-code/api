@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0391533",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "上大町",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カミオオマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391533",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "野月",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ノヅキ",
+    "address2Kana": ""
+  }
+]

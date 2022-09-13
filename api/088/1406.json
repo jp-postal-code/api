@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0881406",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "赤泊",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "アカドマリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881406",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "羨古丹",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "ウラヤコタン",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9320206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "安室",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "アジツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利屋",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トギヤ",
+    "address2Kana": ""
+  }
+]

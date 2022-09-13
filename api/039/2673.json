@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0392673",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "馬尻",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ウマジリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392673",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "大籏屋",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オオハタヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392673",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "向屋敷",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ムカイヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392673",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "山ノ下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ヤマノシタ",
+    "address2Kana": ""
+  }
+]

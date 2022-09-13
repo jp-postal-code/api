@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8380000",
+    "regionId": 40,
+    "region": "福岡県",
+    "locality": "朝倉市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクオカケン",
+    "localityKana": "アサクラシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8380000",
+    "regionId": 40,
+    "region": "福岡県",
+    "locality": "朝倉郡筑前町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクオカケン",
+    "localityKana": "アサクラグンチクゼンマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

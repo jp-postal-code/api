@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4901421",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "上押萩",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "カミオシハギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4901421",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "上押萩町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "カミオシハギチョウ",
+    "address2Kana": ""
+  }
+]

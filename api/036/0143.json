@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0360143",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "吹上高田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "フキアゲタカダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360143",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "吹上平岡",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "フキアゲヒラオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360143",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "吹上安田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "フキアゲヤスタ",
+    "address2Kana": ""
+  }
+]

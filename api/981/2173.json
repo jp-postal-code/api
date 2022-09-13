@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9812173",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "天炉",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "アマホド",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812173",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "船越",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "フナコシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812173",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "山田上",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヤマダカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812173",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "山田下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヤマダシモ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5180607",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "名張市",
+    "address1": "家野",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ナバリシ",
+    "address1Kana": "イエノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5180607",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "名張市",
+    "address1": "葛尾",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ナバリシ",
+    "address1Kana": "クズオ",
+    "address2Kana": ""
+  }
+]

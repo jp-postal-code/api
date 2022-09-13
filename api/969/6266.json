@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "油田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "アブラデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "新丁屋敷",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "シンチョウヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "館ノ越",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "タテノコシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "西裏屋敷添",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ニシウラヤシキゾエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "布才地",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "フサイチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696266",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "竜興寺北",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "リュウコウジキタ",
+    "address2Kana": ""
+  }
+]

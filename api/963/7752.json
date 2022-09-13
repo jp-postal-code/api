@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9637752",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "烏帽子石",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "エボシイシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637752",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "亀井",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "カメイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637752",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "清水畑",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "シミズバタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637752",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "仁井町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ニイマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637752",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "六升蒔",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ロクショウマキ",
+    "address2Kana": ""
+  }
+]

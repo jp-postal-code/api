@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392682",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "石坂",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "イシザカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392682",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "湯沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ユザワ",
+    "address2Kana": ""
+  }
+]

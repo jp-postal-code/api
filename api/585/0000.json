@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5850000",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "南河内郡河南町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "ミナミカワチグンカナンチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5850000",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "南河内郡千早赤阪村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "ミナミカワチグンチハヤアカサカムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

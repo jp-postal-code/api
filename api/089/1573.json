@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0891573",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河西郡更別村",
+    "address1": "弘和",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カサイグンサラベツムラ",
+    "address1Kana": "コウワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0891573",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河西郡更別村",
+    "address1": "東栄",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カサイグンサラベツムラ",
+    "address1Kana": "トウエイ",
+    "address2Kana": ""
+  }
+]

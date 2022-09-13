@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9170027",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "生守",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "イゴモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170027",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "生守団地",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "イゴモリダンチ",
+    "address2Kana": ""
+  }
+]

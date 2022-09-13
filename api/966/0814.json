@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9660814",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "御清水",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "オシミズ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9660814",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "御清水東",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "オシミズヒガシ",
+    "address2Kana": ""
+  }
+]

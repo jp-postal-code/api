@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391506",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "熊野林",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "クマノバヤシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391506",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "熊野林後",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "クマノバヤシウシロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391506",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "熊野林前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "クマノバヤシマエ",
+    "address2Kana": ""
+  }
+]

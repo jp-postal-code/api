@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8620909",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "湖東",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "コトウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8620909",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市東区",
+    "address1": "湖東",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシヒガシク",
+    "address1Kana": "コトウ",
+    "address2Kana": ""
+  }
+]

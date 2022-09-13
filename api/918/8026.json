@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9188026",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "渕",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "フチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9188026",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "渕町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "フチマチ",
+    "address2Kana": ""
+  }
+]

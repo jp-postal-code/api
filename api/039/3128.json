@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0393128",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "上前田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "カミマエダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393128",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "昼場",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ヒルバ",
+    "address2Kana": ""
+  }
+]

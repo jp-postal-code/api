@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6751378",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "王子町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "オウジチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6751378",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "上新町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "カミシンマチ",
+    "address2Kana": ""
+  }
+]

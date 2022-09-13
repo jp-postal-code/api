@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5240046",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "守山市",
+    "address1": "今宿",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "モリヤマシ",
+    "address1Kana": "イマジュク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5240046",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "守山市",
+    "address1": "今宿町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "モリヤマシ",
+    "address1Kana": "イマジュクチョウ",
+    "address2Kana": ""
+  }
+]

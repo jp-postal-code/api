@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8710091",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "闇無町",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "クラナシマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8710091",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "角木",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "ツノギ",
+    "address2Kana": ""
+  }
+]

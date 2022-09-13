@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9360811",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "滑川市",
+    "address1": "大浦",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナメリカワシ",
+    "address1Kana": "オオウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9360811",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "滑川市",
+    "address1": "上大浦",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナメリカワシ",
+    "address1Kana": "カミオオウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9360811",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "滑川市",
+    "address1": "下大浦",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナメリカワシ",
+    "address1Kana": "シモオオウラ",
+    "address2Kana": ""
+  }
+]

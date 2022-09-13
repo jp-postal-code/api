@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9220134",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉荒谷町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンアラタニマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220134",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉菅生谷町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンスゴウダニマチ",
+    "address2Kana": ""
+  }
+]

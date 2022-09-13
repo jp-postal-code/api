@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9170037",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "相生",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "アイオイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170037",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "西相生",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ニシアイオイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170037",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "東相生",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ヒガシアイオイ",
+    "address2Kana": ""
+  }
+]

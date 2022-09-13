@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5015304",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "郡上市",
+    "address1": "高鷲町鮎立",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "グジョウシ",
+    "address1Kana": "タカスチョウアユタテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5015304",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "郡上市",
+    "address1": "高鷲町切立",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "グジョウシ",
+    "address1Kana": "タカスチョウキッタテ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5011159",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "西改田",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ニシカイデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5011159",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "西改田松の木",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ニシカイデンマツノキ",
+    "address2Kana": ""
+  }
+]

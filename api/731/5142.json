@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7315142",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "坪井",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "ツボイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7315142",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "坪井町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "ツボイチョウ",
+    "address2Kana": ""
+  }
+]

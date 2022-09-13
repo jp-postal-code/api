@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0892447",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡広尾町",
+    "address1": "上豊似",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンヒロオチョウ",
+    "address1Kana": "カミトヨニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0892447",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡広尾町",
+    "address1": "下トヨイ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンヒロオチョウ",
+    "address1Kana": "シモトヨイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0892447",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡広尾町",
+    "address1": "下豊似",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンヒロオチョウ",
+    "address1Kana": "シモトヨニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0892447",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡広尾町",
+    "address1": "トヨイベツ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンヒロオチョウ",
+    "address1Kana": "トヨイベツ",
+    "address2Kana": ""
+  }
+]

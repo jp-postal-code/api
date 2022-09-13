@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "1980000",
+    "regionId": 13,
+    "region": "東京都",
+    "locality": "青梅市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トウキョウト",
+    "localityKana": "オウメシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "1980000",
+    "regionId": 13,
+    "region": "東京都",
+    "locality": "西多摩郡奥多摩町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トウキョウト",
+    "localityKana": "ニシタマグンオクタママチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

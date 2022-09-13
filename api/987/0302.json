@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870302",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウヌマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870302",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町櫓場",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウヤグラバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870302",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町櫓場下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウヤグラバシタ",
+    "address2Kana": ""
+  }
+]

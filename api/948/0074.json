@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9480074",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "西浦町西",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ニシウラチョウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480074",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "西浦町東",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ニシウラチョウヒガシ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9270614",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "満泉寺",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "マンセンジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270614",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "山中",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "ヤマナカ",
+    "address2Kana": ""
+  }
+]

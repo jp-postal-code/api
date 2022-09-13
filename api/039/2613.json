@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0392613",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "子ノ鳥平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ネノトリタイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392613",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "野田頭",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ノダガシラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392613",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "野田頭山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ノダガシラヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392613",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "野田尻",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ノダジリ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5011236",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "本巣市",
+    "address1": "佐原",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "モトスシ",
+    "address1Kana": "サワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5011236",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "本巣市",
+    "address1": "鍋原",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "モトスシ",
+    "address1Kana": "ナベラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6391100",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "大和郡山市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヤマトコオリヤマシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6391100",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "生駒郡安堵町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "イコマグンアンドチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0393174",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "大平下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "オオダイシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393174",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "上河渡頭",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "カミカドガシラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393174",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "下河渡頭",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "シモカドガシラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393174",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "田端",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "タバタ",
+    "address2Kana": ""
+  }
+]

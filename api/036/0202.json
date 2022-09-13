@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋上松元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤカミマツモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋上早稲田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤカミワセダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋下松元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤシモマツモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋下早稲田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤシモワセダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋中松元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤナカマツモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋中早稲田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤナカワセダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360202",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "金屋西松元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "カナヤニシマツモト",
+    "address2Kana": ""
+  }
+]

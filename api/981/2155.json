@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9812155",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "片岸",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カタギシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812155",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "山崎",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヤマザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812155",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "山崎前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヤマザキマエ",
+    "address2Kana": ""
+  }
+]

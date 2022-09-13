@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9230862",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "清六町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "セイロクマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230862",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "三田町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "ミタマチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7530036",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "円政寺",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "エンセイジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530036",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "円政寺町",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "エンセイジチョウ",
+    "address2Kana": ""
+  }
+]

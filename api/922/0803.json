@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9220803",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺越前三ツ屋町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジエチゼンミツヤマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220803",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "大聖寺三ツ屋町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ダイショウジミツヤマチ",
+    "address2Kana": ""
+  }
+]

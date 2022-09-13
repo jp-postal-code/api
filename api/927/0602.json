@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9270602",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "松波",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "マツナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270602",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "明生",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "ミョウジョウ",
+    "address2Kana": ""
+  }
+]

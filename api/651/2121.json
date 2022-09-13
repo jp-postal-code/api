@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6512121",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "神戸市西区",
+    "address1": "玉津町水谷",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "コウベシニシク",
+    "address1Kana": "タマツチョウミタニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6512121",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "神戸市西区",
+    "address1": "水谷",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "コウベシニシク",
+    "address1Kana": "ミタニ",
+    "address2Kana": ""
+  }
+]

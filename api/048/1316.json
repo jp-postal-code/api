@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0481316",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "大曲",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "オオマガリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0481316",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "初田",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "ハツタ",
+    "address2Kana": ""
+  }
+]

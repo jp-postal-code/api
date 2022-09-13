@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9201101",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "荒山町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "アラヤママチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201101",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "奥新保町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "オクシンボマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201101",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "砂子坂町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "スナゴザカマチ",
+    "address2Kana": ""
+  }
+]

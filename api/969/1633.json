@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9691633",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "赤坂",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "アカサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691633",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "一里壇",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "イチリダン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691633",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "界",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "サカイ",
+    "address2Kana": ""
+  }
+]

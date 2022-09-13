@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391766",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "立野脇",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "タテノワキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391766",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "刀利",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トウリ",
+    "address2Kana": ""
+  }
+]

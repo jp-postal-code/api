@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120814",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "上麻生嶋",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "カミアソウジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120814",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "川嶋",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "カワシマ",
+    "address2Kana": ""
+  }
+]

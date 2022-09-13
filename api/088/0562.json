@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0880562",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "コイトイ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "コイトイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880562",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "恋問",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "コイトイ",
+    "address2Kana": ""
+  }
+]

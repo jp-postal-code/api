@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5220002",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "彦根市",
+    "address1": "松原",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "ヒコネシ",
+    "address1Kana": "マツバラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5220002",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "彦根市",
+    "address1": "松原町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "ヒコネシ",
+    "address1Kana": "マツバラチョウ",
+    "address2Kana": ""
+  }
+]

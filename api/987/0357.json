@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9870357",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町蕪木",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウカブキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870357",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町鳥越",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウトリゴエ",
+    "address2Kana": ""
+  }
+]

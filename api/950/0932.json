@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9500932",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "長潟",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "ナガタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500932",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市江南区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシコウナンク",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9690236",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "一本木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "イッポンギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690236",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "中畑新田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "ナカハタシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690236",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "矢吹",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "ヤブキ",
+    "address2Kana": ""
+  }
+]

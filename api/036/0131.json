@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0360131",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "広船広沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒロフネヒロサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360131",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "広船福田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒロフネフクダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360131",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "広船山下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヒロフネヤマシタ",
+    "address2Kana": ""
+  }
+]

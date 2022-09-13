@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0611363",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "恵庭市",
+    "address1": "桜森",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エニワシ",
+    "address1Kana": "サクラモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0611363",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "恵庭市",
+    "address1": "島松沢",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エニワシ",
+    "address1Kana": "シママツザワ",
+    "address2Kana": ""
+  }
+]

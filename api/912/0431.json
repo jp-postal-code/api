@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120431",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "下据",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シモシガラミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120431",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "西里",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ニシサト",
+    "address2Kana": ""
+  }
+]

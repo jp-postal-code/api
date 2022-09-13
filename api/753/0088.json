@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7530088",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "中河原",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "ナカガワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530088",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "中河原町",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "ナカガワラチョウ",
+    "address2Kana": ""
+  }
+]

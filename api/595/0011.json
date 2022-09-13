@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5950011",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "泉大津市",
+    "address1": "曽根町",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "イズミオオツシ",
+    "address1Kana": "ソネチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5950011",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "泉大津市",
+    "address1": "南曾根",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "イズミオオツシ",
+    "address1Kana": "ミナミソネ",
+    "address2Kana": ""
+  }
+]

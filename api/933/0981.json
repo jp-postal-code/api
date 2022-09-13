@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9330981",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "二上",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "フタガミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330981",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "二上新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "フタガミシン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330981",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "二上町",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "フタガミマチ",
+    "address2Kana": ""
+  }
+]

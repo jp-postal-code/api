@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9330137",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "太田谷内",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "オオタヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330137",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "西田",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "サイダ",
+    "address2Kana": ""
+  }
+]

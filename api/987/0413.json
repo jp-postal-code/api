@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町上原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチカミハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町下原前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチシモハラマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町宿畑",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチシュクバタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町中原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチナカハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町原浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチハラウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町原前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチハラマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870413",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町原屋敷",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチハラヤシキ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696267",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "新丁西",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "シンチョウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696267",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "西裏",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ニシウラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "家ノ下",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "イエノシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "坂ノ下道上",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "サカノシタミチウエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "坂ノ下道下",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "サカノシタミチシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "坂ノ下道下甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "サカノシタミチシタコウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "佐布川",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "サブカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "高田中川原道下",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "タカダナカガワラミチシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "松木田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "マツキダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696206",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "葭添",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ヨシゾエ",
+    "address2Kana": ""
+  }
+]

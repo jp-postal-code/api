@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120091",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "犬山",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "イヌヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120091",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "牛ケ原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ウシガハラ",
+    "address2Kana": ""
+  }
+]

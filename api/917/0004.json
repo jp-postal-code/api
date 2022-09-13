@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9170004",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "大湊",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "オオミナト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170004",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "小湊",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "コミナト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170004",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "湊",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ミナト",
+    "address2Kana": ""
+  }
+]

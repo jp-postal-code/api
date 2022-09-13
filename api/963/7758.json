@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9637758",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "小金滝",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "コガネダキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637758",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "桜谷",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "サクラダニ",
+    "address2Kana": ""
+  }
+]

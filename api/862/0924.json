@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8620924",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "帯山",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "オビヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8620924",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市東区",
+    "address1": "帯山",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシヒガシク",
+    "address1Kana": "オビヤマ",
+    "address2Kana": ""
+  }
+]

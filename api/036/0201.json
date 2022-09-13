@@ -1,0 +1,122 @@
+[
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平上安原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイカミヤスハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平上山崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイカミヤマザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平北豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイキタトヨダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平下安原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイシモヤスハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平西豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイニシトヨダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平西山崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイニシヤマザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平西和田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイニシワダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平東豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイヒガシトヨダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平東和田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイヒガシワダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360201",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "李平南豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スモモダイミナミトヨダ",
+    "address2Kana": ""
+  }
+]

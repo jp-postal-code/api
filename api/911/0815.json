@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9110815",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "上高島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "カミタカジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110815",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "北市",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "キタイチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110815",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "下高島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "シモタカジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110815",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "高島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "タカジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110815",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "西高島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ニシタカジマ",
+    "address2Kana": ""
+  }
+]

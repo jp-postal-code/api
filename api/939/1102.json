@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391102",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "戸出曙町",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "トイデアケボノチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391102",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "戸出狼",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "トイデオオカミ",
+    "address2Kana": ""
+  }
+]

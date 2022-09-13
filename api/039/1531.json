@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0391531",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "狐森",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "キツネモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391531",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "狐森北",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "キツネモリキタ",
+    "address2Kana": ""
+  }
+]

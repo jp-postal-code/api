@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9870354",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町上沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウウワヌマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870354",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町下沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシモヌマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870354",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町昭和",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウショウワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870354",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町中沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウナカヌマダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870354",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町沼田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウヌマタ",
+    "address2Kana": ""
+  }
+]

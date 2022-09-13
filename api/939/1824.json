@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391824",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "上田",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "ウエダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391824",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "大鋸屋",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "オガヤ",
+    "address2Kana": ""
+  }
+]

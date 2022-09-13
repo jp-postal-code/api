@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9301361",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "中新川郡立山町",
+    "address1": "伊豆林",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナカニイカワグンタテヤママチ",
+    "address1Kana": "イズバヤシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9301361",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "中新川郡立山町",
+    "address1": "下田",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナカニイカワグンタテヤママチ",
+    "address1Kana": "ミサダ",
+    "address2Kana": ""
+  }
+]

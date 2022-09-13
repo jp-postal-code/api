@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4980004",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "又八",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "マタハチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4980004",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "又八町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "マタハチチョウ",
+    "address2Kana": ""
+  }
+]

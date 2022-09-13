@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271315",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町白滝",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチシラタキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271315",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町南山",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチミナミヤマ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9690284",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "滝八幡",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "タキハチマン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690284",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "舘沢",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "タテサワ",
+    "address2Kana": ""
+  }
+]

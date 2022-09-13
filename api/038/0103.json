@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0380103",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "碇ケ関久吉蕷ケ平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イカリガセキヒサヨシイモガタイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0380103",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "碇ケ関久吉二ノ渡",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イカリガセキヒサヨシニノワタリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0380103",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "碇ケ関久吉山岸",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イカリガセキヒサヨシヤマギシ",
+    "address2Kana": ""
+  }
+]

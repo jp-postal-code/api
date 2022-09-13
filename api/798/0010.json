@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7980010",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "宇和島市",
+    "address1": "北新町",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "ウワジマシ",
+    "address1Kana": "キタシンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7980010",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "宇和島市",
+    "address1": "藤江",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "ウワジマシ",
+    "address1Kana": "フジエ",
+    "address2Kana": ""
+  }
+]

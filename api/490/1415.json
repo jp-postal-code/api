@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4901415",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "鮫ケ地",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "サメガンジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4901415",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "鮫ケ地町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "サメガンジチョウ",
+    "address2Kana": ""
+  }
+]

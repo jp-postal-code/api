@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9130035",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "坂井市",
+    "address1": "三国町沖野々",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サカイシ",
+    "address1Kana": "ミクニチョウオキノノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9130035",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "坂井市",
+    "address1": "三国町横越",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サカイシ",
+    "address1Kana": "ミクニチョウヨコゴシ",
+    "address2Kana": ""
+  }
+]

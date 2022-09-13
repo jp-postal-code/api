@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9300107",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "大塚",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオツカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300107",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "大塚東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオツカヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300107",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "大塚西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオツカニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300107",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "大塚南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオツカミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300107",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "大塚北",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオツカキタ",
+    "address2Kana": ""
+  }
+]

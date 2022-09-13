@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4010500",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "南都留郡忍野村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "ミナミツルグンオシノムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4010500",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "南都留郡山中湖村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "ミナミツルグンヤマナカコムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

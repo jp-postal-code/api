@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9300983",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "荒川常盤台",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "アラカワトキワダイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300983",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "常盤台",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "トキワダイ",
+    "address2Kana": ""
+  }
+]

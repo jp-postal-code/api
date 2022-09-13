@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9693532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町大在家",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチオオザイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町経塚",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチキョウヅカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町小府根",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチコフネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町高道",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチタカミチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "喜多方市",
+    "address1": "塩川町藤ノ木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "キタカタシ",
+    "address1Kana": "シオカワマチフジノキ",
+    "address2Kana": ""
+  }
+]

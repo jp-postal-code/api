@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9691635",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "狐崎",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "キツネザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691635",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "東八串",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "ヒガシヤクシ",
+    "address2Kana": ""
+  }
+]

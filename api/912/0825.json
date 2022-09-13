@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120825",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "新塚原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シンツカバラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120825",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "塚原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ツカバラ",
+    "address2Kana": ""
+  }
+]

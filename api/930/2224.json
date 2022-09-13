@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9302224",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "田尻",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タノシリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302224",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "田尻東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タノシリヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302224",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "田尻西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タノシリニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302224",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "田尻南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タノシリミナミ",
+    "address2Kana": ""
+  }
+]

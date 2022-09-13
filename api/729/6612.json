@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7296612",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三次市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7296612",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三次市",
+    "address1": "三和町下板木",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ミワチョウシモイタキ",
+    "address2Kana": ""
+  }
+]

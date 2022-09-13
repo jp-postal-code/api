@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4050075",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "笛吹市",
+    "address1": "一宮町橋立",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "フエフキシ",
+    "address1Kana": "イチノミヤチョウハシタテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4050075",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "笛吹市",
+    "address1": "一宮町東原",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "フエフキシ",
+    "address1Kana": "イチノミヤチョウヒガシバラ",
+    "address2Kana": ""
+  }
+]

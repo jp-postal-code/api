@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9110017",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "野向町北野津又",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ノムキチョウキタノツマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110017",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "野向町横倉",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ノムキチョウヨコクラ",
+    "address2Kana": ""
+  }
+]

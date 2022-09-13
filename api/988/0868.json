@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9880868",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "黒石山",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "クロイシヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880868",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "新関根",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "シンセキネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880868",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "関根",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "セキネ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5031514",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "不破郡関ケ原町",
+    "address1": "稲荷",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "フワグンセキガハラチョウ",
+    "address1Kana": "イナリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5031514",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "不破郡関ケ原町",
+    "address1": "西町",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "フワグンセキガハラチョウ",
+    "address1Kana": "ニシマチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9390546",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋上桜木",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシカミサクラギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390546",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋桜木",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシサクラギ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9260824",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "下町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "シモマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9260824",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "徳田町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "トクダマチ",
+    "address2Kana": ""
+  }
+]

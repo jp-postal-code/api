@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9192216",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "笠原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "カサハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9192216",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "子生",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "コビ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9192216",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "坂田",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "サカタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9102556",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "今立郡池田町",
+    "address1": "白粟",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "イマダテグンイケダチョウ",
+    "address1Kana": "シラワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9102556",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "今立郡池田町",
+    "address1": "松ケ谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "イマダテグンイケダチョウ",
+    "address1Kana": "マツガタニ",
+    "address2Kana": ""
+  }
+]

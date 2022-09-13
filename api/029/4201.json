@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0294201",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "奥州市",
+    "address1": "前沢阿部舘",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "オウシュウシ",
+    "address1Kana": "マエサワアベタテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0294201",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "奥州市",
+    "address1": "前沢久田",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "オウシュウシ",
+    "address1Kana": "マエサワキュウデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0294201",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "奥州市",
+    "address1": "前沢源氏ケ崎",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "オウシュウシ",
+    "address1Kana": "マエサワゲンジガサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0294201",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "奥州市",
+    "address1": "前沢古城",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "オウシュウシ",
+    "address1Kana": "マエサワコジョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "postalCode": "1000101",
+    "regionId": 13,
+    "region": "東京都",
+    "locality": "大島町",
+    "address1": "元町",
+    "address2": "",
+    "regionKana": "トウキョウト",
+    "localityKana": "オオシママチ",
+    "address1Kana": "モトマチ",
+    "address2Kana": ""
+  }
+]

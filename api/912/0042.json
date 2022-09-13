@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120042",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "東中",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ヒガシナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120042",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "東中町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ヒガシナカチョウ",
+    "address2Kana": ""
+  }
+]

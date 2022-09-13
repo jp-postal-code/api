@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392668",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "北膳前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "キタゼンマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392668",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "篠内平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "シノナイタイ",
+    "address2Kana": ""
+  }
+]

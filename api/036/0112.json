@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田上駒田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタカミコマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田北稲村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタキタイナムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田北岡部",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタキタオカベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田下駒田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタシモコマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田南稲村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタミナミイナムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360112",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "荒田南岡部",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "アラタミナミオカベ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3500400",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "入間郡毛呂山町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "イルマグンモロヤママチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3500400",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "入間郡越生町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "イルマグンオゴセマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9192372",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "高屋",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "タカヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9192372",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "緑ケ丘",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "ミドリガオカ",
+    "address2Kana": ""
+  }
+]

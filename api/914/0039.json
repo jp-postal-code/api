@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9140039",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "敦賀市",
+    "address1": "観音町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ツルガシ",
+    "address1Kana": "カンノンチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9140039",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "敦賀市",
+    "address1": "羽織町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ツルガシ",
+    "address1Kana": "ハオリチョウ",
+    "address2Kana": ""
+  }
+]

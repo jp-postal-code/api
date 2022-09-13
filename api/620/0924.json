@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6200924",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "福知山市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "フクチヤマシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6200924",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "福知山市",
+    "address1": "下篠尾",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "フクチヤマシ",
+    "address1Kana": "シモサソオ",
+    "address2Kana": ""
+  }
+]

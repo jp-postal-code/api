@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4980046",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "三好",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "ミヨシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4980046",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "三好町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "ミヨシチョウ",
+    "address2Kana": ""
+  }
+]

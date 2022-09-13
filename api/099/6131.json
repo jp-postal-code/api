@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0996131",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別市",
+    "address1": "一本松",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツシ",
+    "address1Kana": "イッポンマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0996131",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別市",
+    "address1": "八十士",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツシ",
+    "address1Kana": "ヤソシ",
+    "address2Kana": ""
+  }
+]

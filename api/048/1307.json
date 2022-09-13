@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0481307",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "トンカラ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "トンカラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0481307",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "名駒町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "ナコママチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6011387",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京都市伏見区",
+    "address1": "醍醐一ノ切町",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウトシフシミク",
+    "address1Kana": "ダイゴイチノキリチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6011387",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京都市伏見区",
+    "address1": "醍醐三ノ切",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウトシフシミク",
+    "address1Kana": "ダイゴサンノキリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6011387",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京都市伏見区",
+    "address1": "醍醐二ノ切町",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウトシフシミク",
+    "address1Kana": "ダイゴニノキリチョウ",
+    "address2Kana": ""
+  }
+]

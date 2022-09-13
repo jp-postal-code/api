@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0392678",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "狐沢山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "キツネサワヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392678",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "坂ノ下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "サカノシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392678",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "田面木",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "タモギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392678",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "長者久保",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "チョウジャクボ",
+    "address2Kana": ""
+  }
+]

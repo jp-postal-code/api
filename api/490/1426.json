@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4901426",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "四郎兵衛",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "シロベエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4901426",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "四郎兵衛町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "シロベエチョウ",
+    "address2Kana": ""
+  }
+]

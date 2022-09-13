@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9501131",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "鍋潟新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "ナベガタシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9501131",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市江南区",
+    "address1": "鍋潟新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシコウナンク",
+    "address1Kana": "ナベガタシンデン",
+    "address2Kana": ""
+  }
+]

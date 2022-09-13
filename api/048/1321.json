@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0481321",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "昆布温泉",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "コンブオンセン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0481321",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "磯谷郡蘭越町",
+    "address1": "湯里",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "イソヤグンランコシチョウ",
+    "address1Kana": "ユノサト",
+    "address2Kana": ""
+  }
+]

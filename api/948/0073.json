@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町一丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウイッチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町二丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウニチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町三丁目東",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウサンチョウメヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町三丁目本通り",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウサンチョウメホンドオリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町四丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウヨンチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480073",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "稲荷町西",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "イナリチョウニシ",
+    "address2Kana": ""
+  }
+]

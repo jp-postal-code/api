@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "兎内",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウサギナイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "兎内上保土沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウサギナイカミホトザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "兎内下保土沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウサギナイシモホトザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "兎内下川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウサギナイシモカワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "兎内下谷地",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウサギナイシモヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391504",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "上兎内",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カミウサギナイ",
+    "address2Kana": ""
+  }
+]

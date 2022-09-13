@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9910006",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "寒河江市",
+    "address1": "上河原",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "サガエシ",
+    "address1Kana": "カミガワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9910006",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "寒河江市",
+    "address1": "夕カヘ",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "サガエシ",
+    "address1Kana": "ユウガエ",
+    "address2Kana": ""
+  }
+]

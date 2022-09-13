@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391554",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "川原町",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カワラマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391554",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "川原町裏",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カワラマチウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391554",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "傳兵ヱ丁",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "デンベエチョウ",
+    "address2Kana": ""
+  }
+]

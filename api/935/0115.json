@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9350115",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "氷見市",
+    "address1": "鞍骨",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ヒミシ",
+    "address1Kana": "クラボネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9350115",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "氷見市",
+    "address1": "鉾根",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ヒミシ",
+    "address1Kana": "ホコネ",
+    "address2Kana": ""
+  }
+]

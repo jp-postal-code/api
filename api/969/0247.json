@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9690247",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "諏訪の前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "スワノマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690247",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "寺の前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "テラノマエ",
+    "address2Kana": ""
+  }
+]

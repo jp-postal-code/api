@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0883341",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "屈斜路",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "クッシヤロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0883341",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "屈斜路原野",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "クッシヤロゲンヤ",
+    "address2Kana": ""
+  }
+]

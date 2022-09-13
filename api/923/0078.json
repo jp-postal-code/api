@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9230078",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "嵐町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "アラシマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230078",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "中ノ峠町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "ナカノトウゲマチ",
+    "address2Kana": ""
+  }
+]

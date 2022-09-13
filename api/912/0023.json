@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120023",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "中荒井",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ナカアライ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120023",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "中荒井町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ナカアライチョウ",
+    "address2Kana": ""
+  }
+]

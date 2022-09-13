@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0985701",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "栄和",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "エイワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0985701",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "頓別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "トンベツ",
+    "address2Kana": ""
+  }
+]

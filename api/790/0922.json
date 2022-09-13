@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7900922",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "星岡",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "ホシオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7900922",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "星岡町",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "ホシオカマチ",
+    "address2Kana": ""
+  }
+]

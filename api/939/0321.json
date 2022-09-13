@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "青井谷",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "アオイダニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "宿屋",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "シュクヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "浄土寺",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ジョウドジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "入会地",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ニュウカイチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390321",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "野手",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ノデ",
+    "address2Kana": ""
+  }
+]

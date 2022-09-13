@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5110912",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "桑名市",
+    "address1": "星川",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "クワナシ",
+    "address1Kana": "ホシカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5110912",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "桑名市",
+    "address1": "星見ケ丘",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "クワナシ",
+    "address1Kana": "ホシミガオカ",
+    "address2Kana": ""
+  }
+]

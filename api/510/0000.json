@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "5100000",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "四日市市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ヨッカイチシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5100000",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "三重郡朝日町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ミエグンアサヒチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5100000",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "三重郡川越町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ミエグンカワゴエチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

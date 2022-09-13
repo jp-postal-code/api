@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9501143",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "俵柳",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "タワラヤナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9501143",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市江南区",
+    "address1": "俵柳",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシコウナンク",
+    "address1Kana": "タワラヤナギ",
+    "address2Kana": ""
+  }
+]

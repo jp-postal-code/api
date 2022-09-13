@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9591921",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "阿賀野市",
+    "address1": "折居",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "アガノシ",
+    "address1Kana": "オリイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9591921",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "阿賀野市",
+    "address1": "上西山",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "アガノシ",
+    "address1Kana": "カミニシヤマ",
+    "address2Kana": ""
+  }
+]

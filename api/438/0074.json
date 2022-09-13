@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4380074",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "磐田市",
+    "address1": "二之宮",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "イワタシ",
+    "address1Kana": "ニノミヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4380074",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "磐田市",
+    "address1": "二之宮浅間",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "イワタシ",
+    "address1Kana": "ニノミヤセンゲン",
+    "address2Kana": ""
+  }
+]

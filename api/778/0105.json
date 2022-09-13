@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村後山",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラウシロヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村後山西",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラウシロヤマニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村後山向",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラウシロヤマムカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村徳善",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラトクゼン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村徳善北",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラトクゼンキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村徳善西",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラトクゼンニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村西岡",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラニシオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780105",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村東西岡",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラヒガシニシオカ",
+    "address2Kana": ""
+  }
+]

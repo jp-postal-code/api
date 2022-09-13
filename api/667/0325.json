@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6670325",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "養父市",
+    "address1": "大屋町栗ノ下",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ヤブシ",
+    "address1Kana": "オオヤチョウクリノシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6670325",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "養父市",
+    "address1": "大屋町中間",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ヤブシ",
+    "address1Kana": "オオヤチョウナカマ",
+    "address2Kana": ""
+  }
+]

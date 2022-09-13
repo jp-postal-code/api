@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0287621",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "八幡平市",
+    "address1": "兄川",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ハチマンタイシ",
+    "address1Kana": "アニカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0287621",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "八幡平市",
+    "address1": "作平",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ハチマンタイシ",
+    "address1Kana": "サクヒラ",
+    "address2Kana": ""
+  }
+]

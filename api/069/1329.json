@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0691329",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡長沼町",
+    "address1": "木詰",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンナガヌマチョウ",
+    "address1Kana": "キヅマリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0691329",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡長沼町",
+    "address1": "幌向原野",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンナガヌマチョウ",
+    "address1Kana": "ホロムイゲンヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0691329",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡長沼町",
+    "address1": "２９区",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンナガヌマチョウ",
+    "address1Kana": "29ク",
+    "address2Kana": ""
+  }
+]

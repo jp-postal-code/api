@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0392612",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "狼ノ沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オイノサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392612",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "沼添左ノ平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ヌマソエサノタイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392612",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "浜台",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ハマダイ",
+    "address2Kana": ""
+  }
+]

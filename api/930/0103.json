@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9300103",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "北代",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "キタダイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300103",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "北代中部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "キタダイチュウブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300103",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "北代東部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "キタダイトウブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300103",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "北代北部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "キタダイホクブ",
+    "address2Kana": ""
+  }
+]

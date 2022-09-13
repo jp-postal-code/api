@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9812125",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "深田上",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "フカダカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812125",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "深田下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "フカダシモ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9150802",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "北府",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "キタゴ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9150802",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "北府本町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "キタゴホンマチ",
+    "address2Kana": ""
+  }
+]

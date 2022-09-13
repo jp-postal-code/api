@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7315143",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "三宅",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "ミヤケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7315143",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "三宅町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "ミヤケチョウ",
+    "address2Kana": ""
+  }
+]

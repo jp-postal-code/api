@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9691634",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "落合",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "オチアイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691634",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "杉ノ前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "スギノマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691634",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達郡桑折町",
+    "address1": "砂子沢",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテグンコオリマチ",
+    "address1Kana": "スナゴザワ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9250452",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡志賀町",
+    "address1": "中泉",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンシカマチ",
+    "address1Kana": "ナカイズミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9250452",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡志賀町",
+    "address1": "八幡座主",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンシカマチ",
+    "address1Kana": "ヤワタザス",
+    "address2Kana": ""
+  }
+]

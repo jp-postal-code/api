@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7391751",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐北区",
+    "address1": "深川",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサキタク",
+    "address1Kana": "フカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7391751",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐北区",
+    "address1": "深川町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサキタク",
+    "address1Kana": "フカワチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9518134",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "関屋",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "セキヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9518134",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西区",
+    "address1": "関屋",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシク",
+    "address1Kana": "セキヤ",
+    "address2Kana": ""
+  }
+]

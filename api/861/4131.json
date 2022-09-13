@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8614131",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市南区",
+    "address1": "薄場",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシミナミク",
+    "address1Kana": "ウスバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8614131",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市南区",
+    "address1": "薄場町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシミナミク",
+    "address1Kana": "ウスバマチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9392625",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町上瀬",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチカミゼ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392625",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町三瀬",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチサンノセ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392625",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町高山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチタカヤマ",
+    "address2Kana": ""
+  }
+]

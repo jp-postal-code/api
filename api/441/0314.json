@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4410314",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町御幸浜",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウミユキハマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4410314",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町御幸浜一号地",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウミユキハマ1ゴウチ",
+    "address2Kana": ""
+  }
+]

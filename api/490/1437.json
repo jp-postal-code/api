@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4901437",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "海部郡飛島村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "アマグントビシマムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4901437",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "海部郡飛島村",
+    "address1": "元起",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "アマグントビシマムラ",
+    "address1Kana": "モトキ",
+    "address2Kana": ""
+  }
+]

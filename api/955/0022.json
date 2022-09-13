@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9550022",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "三条市",
+    "address1": "上保内",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "サンジョウシ",
+    "address1Kana": "カミホナイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9550022",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "三条市",
+    "address1": "みずほ",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "サンジョウシ",
+    "address1Kana": "ミズホ",
+    "address2Kana": ""
+  }
+]

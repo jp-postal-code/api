@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9872243",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館萩沢東",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテハギサワヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872243",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館萩沢南",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテハギサワミナミ",
+    "address2Kana": ""
+  }
+]

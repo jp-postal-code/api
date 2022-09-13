@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市北区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシキタク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市東区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシヒガシク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市江南区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシコウナンク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500000",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西蒲区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシカンク",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

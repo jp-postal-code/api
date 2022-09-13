@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9150219",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "北坂下町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "キタサカシタチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9150219",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "殿町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "トノチョウ",
+    "address2Kana": ""
+  }
+]

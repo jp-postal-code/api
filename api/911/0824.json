@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9110824",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "平泉寺町池ケ原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ヘイセンジチョウイケガハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110824",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "平泉寺町大矢谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ヘイセンジチョウオオヤダニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110824",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "平泉寺町小矢谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ヘイセンジチョウコヤダニ",
+    "address2Kana": ""
+  }
+]

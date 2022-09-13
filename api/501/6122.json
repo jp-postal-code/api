@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "5016122",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町高桑",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウタカクワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016122",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町高桑西",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウタカクワニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016122",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町高桑東",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウタカクワヒガシ",
+    "address2Kana": ""
+  }
+]

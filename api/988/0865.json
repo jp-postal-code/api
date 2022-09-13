@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9880865",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "新早稲谷",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "シンワセヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880865",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "早稲谷",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "ワセヤ",
+    "address2Kana": ""
+  }
+]

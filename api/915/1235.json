@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9151235",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "菅町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "スゲチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9151235",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "安戸町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "ヤスドチョウ",
+    "address2Kana": ""
+  }
+]

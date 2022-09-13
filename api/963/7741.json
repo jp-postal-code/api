@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9637741",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "鎌田前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "カマタマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637741",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "天王前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "テンノウマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637741",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "八島台",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ヤシマダイ",
+    "address2Kana": ""
+  }
+]

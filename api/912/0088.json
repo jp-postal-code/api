@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120088",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "水落",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ミズオトシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120088",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "水落町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "ミズオトシチョウ",
+    "address2Kana": ""
+  }
+]

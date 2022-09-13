@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9220101",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉中田町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンナカダマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220101",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉二天町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンニテンマチ",
+    "address2Kana": ""
+  }
+]

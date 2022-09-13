@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391555",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "下高田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "シモタカダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391555",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古堂",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルドウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391555",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古堂後",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルドウウシロ",
+    "address2Kana": ""
+  }
+]

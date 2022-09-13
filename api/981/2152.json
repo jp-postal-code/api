@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9812152",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "鳥屋",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "トリヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812152",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "花田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ハナダ",
+    "address2Kana": ""
+  }
+]

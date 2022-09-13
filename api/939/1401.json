@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391401",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "東保",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "ヒガシボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391401",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "砺波市",
+    "address1": "本小林",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トナミシ",
+    "address1Kana": "モトコバヤシ",
+    "address2Kana": ""
+  }
+]

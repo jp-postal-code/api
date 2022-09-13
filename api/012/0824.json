@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0120824",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "湯沢市",
+    "address1": "裏門",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ユザワシ",
+    "address1Kana": "ウラモン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0120824",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "湯沢市",
+    "address1": "佐竹町",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ユザワシ",
+    "address1Kana": "サタケチョウ",
+    "address2Kana": ""
+  }
+]

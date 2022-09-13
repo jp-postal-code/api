@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0892273",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡大樹町",
+    "address1": "大光",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンタイキチョウ",
+    "address1Kana": "タイコウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0892273",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "広尾郡大樹町",
+    "address1": "大全",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヒロオグンタイキチョウ",
+    "address1Kana": "タイゼン",
+    "address2Kana": ""
+  }
+]

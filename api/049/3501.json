@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0493501",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "山越郡長万部町",
+    "address1": "大峰",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヤマコシグンオシャマンベチョウ",
+    "address1Kana": "オオミネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0493501",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "山越郡長万部町",
+    "address1": "双葉",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ヤマコシグンオシャマンベチョウ",
+    "address1Kana": "フタバ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9870132",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "蔵人沖名",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "クランドオキナ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870132",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "小谷地",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "コヤチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9151212",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "米口町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "コメグチチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9151212",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "仏谷町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "ホトケダニチョウ",
+    "address2Kana": ""
+  }
+]

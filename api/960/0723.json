@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町足駄木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチアシナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町内山",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチウチヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町上足駄木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチカミアシナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町里見山",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチサトミヤマ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0360153",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "小杉稲村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "コスギイナムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360153",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "小杉扇田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "コスギオウギダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360153",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "小杉川崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "コスギカワサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360153",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "小杉竹内",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "コスギタケウチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360153",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "小杉西田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "コスギニシタ",
+    "address2Kana": ""
+  }
+]

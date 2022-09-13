@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391523",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "上保土沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カミホトザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391523",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "下保土沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "シモホトザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391523",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "新蔵長根",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "シンゾウナガネ",
+    "address2Kana": ""
+  }
+]

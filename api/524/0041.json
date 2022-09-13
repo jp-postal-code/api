@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5240041",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "守山市",
+    "address1": "勝部",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "モリヤマシ",
+    "address1Kana": "カツベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5240041",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "守山市",
+    "address1": "勝部町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "モリヤマシ",
+    "address1Kana": "カツベチョウ",
+    "address2Kana": ""
+  }
+]

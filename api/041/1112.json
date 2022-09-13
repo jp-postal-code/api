@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0411112",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "亀田郡七飯町",
+    "address1": "鳴川",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カメダグンナナエチョウ",
+    "address1Kana": "ナルカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0411112",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "亀田郡七飯町",
+    "address1": "鳴川町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カメダグンナナエチョウ",
+    "address1Kana": "ナルカワチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391536",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "愛宕後",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "アタゴウシロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391536",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "愛宕下タ",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "アタゴシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391536",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "愛宕丁",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "アタゴチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9103268",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "奥平町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "オクダイラチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9103268",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "清水平町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "シミズダイラチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9103268",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "中平町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "ナカダイラチョウ",
+    "address2Kana": ""
+  }
+]

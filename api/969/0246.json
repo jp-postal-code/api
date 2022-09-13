@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9690246",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "上宮崎",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "カミミヤザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690246",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "下宮崎",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "シモミヤザキ",
+    "address2Kana": ""
+  }
+]

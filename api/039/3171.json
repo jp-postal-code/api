@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "上御手洗瀬",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "カミミタラセ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "下御手洗瀬",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "シモミタラセ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "滝田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "タキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "槻ノ木",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ツキノキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "二本木",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ニホンキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "二十平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ハタチタイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393171",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "御手洗瀬",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ミタラセ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "東川前丙",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "ヒガシカワマエヘイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696532",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "道下丙",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "ミチシタヘイ",
+    "address2Kana": ""
+  }
+]

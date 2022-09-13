@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0893334",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "中川郡本別町",
+    "address1": "北",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ナカガワグンホンベツチョウ",
+    "address1Kana": "キタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0893334",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "中川郡本別町",
+    "address1": "清流町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ナカガワグンホンベツチョウ",
+    "address1Kana": "セイリュウチョウ",
+    "address2Kana": ""
+  }
+]

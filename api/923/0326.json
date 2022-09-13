@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9230326",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "粟津温泉",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "アワヅオンセン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230326",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "粟津町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "アワヅマチ",
+    "address2Kana": ""
+  }
+]

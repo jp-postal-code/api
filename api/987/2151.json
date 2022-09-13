@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9872151",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "高清水東浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "タカシミズヒガシウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872151",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "高清水仰ケ返り",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "タカシミズムケガエリ",
+    "address2Kana": ""
+  }
+]

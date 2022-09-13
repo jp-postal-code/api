@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9460061",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "新保",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "シンボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460061",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "新保新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "シンボシンデン",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9590124",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "五千石",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "ゴセンゴク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9590124",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "五千石荒川",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "ゴセンゴクアラカワ",
+    "address2Kana": ""
+  }
+]

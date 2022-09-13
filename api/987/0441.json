@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9870441",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町青島前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチアオシママエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870441",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町青島待井",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチアオシママチイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870441",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町青島屋敷",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチアオシマヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870441",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町新青島前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチシンアオシママエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870441",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町新鳩峯",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチシンハトミネ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0883331",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "美留和",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "ビルワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0883331",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "美留和原野",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "ビルワゲンヤ",
+    "address2Kana": ""
+  }
+]

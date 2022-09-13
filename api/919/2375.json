@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9192375",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "旭ケ丘",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "アサヒガオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9192375",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡高浜町",
+    "address1": "蒜畠",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンタカハマチョウ",
+    "address1Kana": "ヒルバタケ",
+    "address2Kana": ""
+  }
+]

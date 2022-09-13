@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0691316",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡長沼町",
+    "address1": "加賀団体",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンナガヌマチョウ",
+    "address1Kana": "カガダンタイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0691316",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張郡長沼町",
+    "address1": "１６区",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリグンナガヌマチョウ",
+    "address1Kana": "16ク",
+    "address2Kana": ""
+  }
+]

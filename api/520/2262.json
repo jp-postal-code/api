@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5202262",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石淀",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシヨド",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5202262",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石淀町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシヨドチョウ",
+    "address2Kana": ""
+  }
+]

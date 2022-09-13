@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "旭町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "アサヒチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "大町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "オオマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "喜茂別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "キモベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "幸町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "サイワイチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "末広町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "スエヒロチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "本町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "ホンチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440201",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "緑町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "ミドリチョウ",
+    "address2Kana": ""
+  }
+]

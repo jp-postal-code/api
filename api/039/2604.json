@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0392604",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "空久保",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "アキクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392604",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "饅頭長根",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "マンジュウナガネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392604",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "水流",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ミズナガレ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392604",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "横沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ヨコサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392604",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "横沢頭",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ヨコサワガシラ",
+    "address2Kana": ""
+  }
+]

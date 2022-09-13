@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6991221",
+    "regionId": 32,
+    "region": "島根県",
+    "locality": "雲南市",
+    "address1": "大東町飯田",
+    "address2": "",
+    "regionKana": "シマネケン",
+    "localityKana": "ウンナンシ",
+    "address1Kana": "ダイトウチョウイイダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6991221",
+    "regionId": 32,
+    "region": "島根県",
+    "locality": "雲南市",
+    "address1": "大東町岡村",
+    "address2": "",
+    "regionKana": "シマネケン",
+    "localityKana": "ウンナンシ",
+    "address1Kana": "ダイトウチョウオカムラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9300173",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "野口",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ノグチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300173",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "野口南部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ノグチナンブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300173",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "野口北部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ノグチホクブ",
+    "address2Kana": ""
+  }
+]

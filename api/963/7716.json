@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9637716",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "根本",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ネモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637716",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "蛇石",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ヘビイシ",
+    "address2Kana": ""
+  }
+]

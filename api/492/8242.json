@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4928242",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "稲沢市",
+    "address1": "奥田町田畑切",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "イナザワシ",
+    "address1Kana": "オクダチョウタバタキリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4928242",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "稲沢市",
+    "address1": "奥田町文七西",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "イナザワシ",
+    "address1Kana": "オクダチョウブンヒチニシ",
+    "address2Kana": ""
+  }
+]

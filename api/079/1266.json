@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0791266",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "赤平市",
+    "address1": "茂尻",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アカビラシ",
+    "address1Kana": "モジリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0791266",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "赤平市",
+    "address1": "茂尻栄町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アカビラシ",
+    "address1Kana": "モジリサカエマチ",
+    "address2Kana": ""
+  }
+]

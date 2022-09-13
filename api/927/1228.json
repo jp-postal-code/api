@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271228",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町柏原",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチカシハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271228",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町黒峰",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチクロミネ",
+    "address2Kana": ""
+  }
+]

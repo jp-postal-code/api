@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9890555",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "滝ノ上",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "タキノウエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890555",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "水上口",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "ミズカミグチ",
+    "address2Kana": ""
+  }
+]

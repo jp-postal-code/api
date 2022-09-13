@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6496248",
+    "regionId": 30,
+    "region": "和歌山県",
+    "locality": "岩出市",
+    "address1": "中黒",
+    "address2": "",
+    "regionKana": "ワカヤマケン",
+    "localityKana": "イワデシ",
+    "address1Kana": "ナカクロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6496248",
+    "regionId": 30,
+    "region": "和歌山県",
+    "locality": "岩出市",
+    "address1": "湯窪",
+    "address2": "",
+    "regionKana": "ワカヤマケン",
+    "localityKana": "イワデシ",
+    "address1Kana": "ユクボ",
+    "address2Kana": ""
+  }
+]

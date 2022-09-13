@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696533",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "上ノ台乙",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "カミノダイオツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696533",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "台ノ下",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "ダイノシタ",
+    "address2Kana": ""
+  }
+]

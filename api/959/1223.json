@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9591223",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "上児木",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "カミチゴノキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9591223",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "下児木",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "シモチゴノキ",
+    "address2Kana": ""
+  }
+]

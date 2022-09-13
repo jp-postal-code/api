@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9190434",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "坂井市",
+    "address1": "春江町境",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サカイシ",
+    "address1Kana": "ハルエチョウサカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9190434",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "坂井市",
+    "address1": "春江町境上町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サカイシ",
+    "address1Kana": "ハルエチョウサカイカミチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9190434",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "坂井市",
+    "address1": "春江町境元町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サカイシ",
+    "address1Kana": "ハルエチョウサカイモトマチ",
+    "address2Kana": ""
+  }
+]

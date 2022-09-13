@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "4410303",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町新田",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4410303",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町新田洗出",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウシンデンアライダシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4410303",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町新田新砂山",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウシンデンシンスナヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4410303",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊川市",
+    "address1": "御津町新田砂山",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨカワシ",
+    "address1Kana": "ミトチョウシンデンスナヤマ",
+    "address2Kana": ""
+  }
+]

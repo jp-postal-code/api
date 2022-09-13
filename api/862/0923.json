@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8620923",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "東京塚町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "ヒガシキョウヅカマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8620923",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市東区",
+    "address1": "東京塚町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシヒガシク",
+    "address1Kana": "ヒガシキョウヅカマチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0360161",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "杉館滝元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スギダテタキモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360161",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "杉館松橋",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スギダテマツハシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360161",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "杉館宮元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "スギダテミヤモト",
+    "address2Kana": ""
+  }
+]

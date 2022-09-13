@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9270626",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "泉",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "イズミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270626",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "駒渡",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "コマワタリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270626",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡能登町",
+    "address1": "田代",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンノトチョウ",
+    "address1Kana": "タシロ",
+    "address2Kana": ""
+  }
+]

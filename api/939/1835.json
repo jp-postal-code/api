@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9391835",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "京塚",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "キョウヅカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391835",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "立野原東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "タテノハラヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391835",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "南原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "ミナミハラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9170373",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄染ケ谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウソメガタニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170373",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄槇谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウマキダニ",
+    "address2Kana": ""
+  }
+]

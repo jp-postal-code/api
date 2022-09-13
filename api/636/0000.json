@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "6360000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "生駒郡平群町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "イコマグンヘグリチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6360000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "生駒郡三郷町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "イコマグンサンゴウチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6360000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "北葛城郡王寺町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "キタカツラギグンオウジチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6360000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "北葛城郡河合町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "キタカツラギグンカワイチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

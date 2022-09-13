@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9260831",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "青山町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "アオヤママチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9260831",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "池崎町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "イケザキマチ",
+    "address2Kana": ""
+  }
+]

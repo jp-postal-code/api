@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9870442",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町後高石",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチウシロタカイシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870442",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町茶臼森",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチチャウスモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870442",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町茶臼森前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチチャウスモリマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870442",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町中高石",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチナカタカイシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870442",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町中高石浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチナカタカイシウラ",
+    "address2Kana": ""
+  }
+]

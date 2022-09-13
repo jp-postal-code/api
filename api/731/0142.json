@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7310142",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "高取南",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "タカトリミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7310142",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "高取南町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "タカトリミナミマチ",
+    "address2Kana": ""
+  }
+]

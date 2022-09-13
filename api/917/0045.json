@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9170045",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "加斗",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "カド",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170045",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "上加斗",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "カミカド",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170045",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "下加斗",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "シモカド",
+    "address2Kana": ""
+  }
+]

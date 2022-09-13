@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0360145",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "岩館長田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イワダテオサダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360145",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "岩館下り松",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イワダテサガリマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360145",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "岩館藤巻",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イワダテフジマキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360145",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "岩館村元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イワダテムラモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360145",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "岩館山の井",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "イワダテヤマノイ",
+    "address2Kana": ""
+  }
+]

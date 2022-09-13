@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5011203",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "本巣市",
+    "address1": "宝珠ハイツ",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "モトスシ",
+    "address1Kana": "ホウジュハイツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5011203",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "本巣市",
+    "address1": "文殊",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "モトスシ",
+    "address1Kana": "モンジュ",
+    "address2Kana": ""
+  }
+]

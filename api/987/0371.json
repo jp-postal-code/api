@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870371",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町大曲",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウオオマガリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870371",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町唐崎",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウカラサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870371",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町十丁田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウジッチョウダ",
+    "address2Kana": ""
+  }
+]

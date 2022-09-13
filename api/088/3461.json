@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0883461",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "跡佐登",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "アトサノボリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0883461",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "跡佐登原野",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "アトサノボリゲンヤ",
+    "address2Kana": ""
+  }
+]

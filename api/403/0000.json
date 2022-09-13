@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4030000",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "富士吉田市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "フジヨシダシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4030000",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "南都留郡西桂町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "ミナミツルグンニシカツラチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

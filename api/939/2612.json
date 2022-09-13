@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392612",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町上吉川",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチカミヨシカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392612",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町上吉川ニュータウン",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチカミヨシカワニュータウン",
+    "address2Kana": ""
+  }
+]

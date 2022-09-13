@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392617",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "水喰",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ミズハミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392617",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "水喰向",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ミズハミムカイ",
+    "address2Kana": ""
+  }
+]

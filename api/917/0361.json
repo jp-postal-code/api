@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9170361",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄挙原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウアゲハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170361",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄木谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウキダニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170361",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄出合",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウデアイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170361",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大飯郡おおい町",
+    "address1": "名田庄虫谷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオイグンオオイチョウ",
+    "address1Kana": "ナタショウムシダニ",
+    "address2Kana": ""
+  }
+]

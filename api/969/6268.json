@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9696268",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "谷地",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696268",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "谷地前",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ヤチマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696268",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "柳台",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ヤナギダイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696268",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "柳台甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "ヤナギダイコウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎高野",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキタカノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎高原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキタカハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎本林",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキホンバヤシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎松枝",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキマツエダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎松橋",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキマツハシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎宮田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキミヤタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎宮本",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキミヤモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360241",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "八幡崎本宮",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ヤワタサキモトミヤ",
+    "address2Kana": ""
+  }
+]

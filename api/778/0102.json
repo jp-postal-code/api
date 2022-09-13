@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "7780102",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村今久保",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムライマクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780102",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村閑定",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラカンジョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780102",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村善徳",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラゼントク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780102",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "西祖谷山村中尾",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ニシイヤヤマムラナカオ",
+    "address2Kana": ""
+  }
+]

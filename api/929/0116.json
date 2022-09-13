@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9290116",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "能美市",
+    "address1": "高坂町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ノミシ",
+    "address1Kana": "タカサカマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9290116",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "能美市",
+    "address1": "根上町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ノミシ",
+    "address1Kana": "ネアガリマチ",
+    "address2Kana": ""
+  }
+]

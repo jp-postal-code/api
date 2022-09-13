@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7380513",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7380513",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市佐伯区",
+    "address1": "湯来町伏谷",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシサエキク",
+    "address1Kana": "ユキチョウフシダニ",
+    "address2Kana": ""
+  }
+]

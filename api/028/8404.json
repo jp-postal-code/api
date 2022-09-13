@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0288404",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "島越",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "シマノコシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288404",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "松前沢",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "マツマエサワ",
+    "address2Kana": ""
+  }
+]

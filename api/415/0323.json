@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4150323",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "川合野",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "カワイノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150323",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "下小野",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "シモオノ",
+    "address2Kana": ""
+  }
+]

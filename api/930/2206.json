@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9302206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "金山新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "カナヤマシン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "金山新中",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "カナヤマシンナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "金山新西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "カナヤマシンニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "金山新南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "カナヤマシンミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302206",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "金山新北",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "カナヤマシンキタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "7793503",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "吉野川市",
+    "address1": "美郷川俣",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ヨシノガワシ",
+    "address1Kana": "ミサトカワマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7793503",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "吉野川市",
+    "address1": "美郷品野",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ヨシノガワシ",
+    "address1Kana": "ミサトシナノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7793503",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "吉野川市",
+    "address1": "美郷高野尾",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ヨシノガワシ",
+    "address1Kana": "ミサトタカノオ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7793503",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "吉野川市",
+    "address1": "美郷中筋",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ヨシノガワシ",
+    "address1Kana": "ミサトナカスジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7793503",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "吉野川市",
+    "address1": "美郷湯殿",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ヨシノガワシ",
+    "address1Kana": "ミサトユドノ",
+    "address2Kana": ""
+  }
+]

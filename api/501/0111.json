@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "5010111",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "鏡島",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "カガシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5010111",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "鏡島町",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "カガシマチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5010111",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "川原畑",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "カワハラバタ",
+    "address2Kana": ""
+  }
+]

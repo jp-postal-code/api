@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7310143",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "長楽寺",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "チョウラクジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7310143",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐南区",
+    "address1": "長楽寺町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサミナミク",
+    "address1Kana": "チョウラクジチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9880802",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "高判形山",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "タカハンギョウヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880802",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "日ノ口",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "ヒノクチ",
+    "address2Kana": ""
+  }
+]

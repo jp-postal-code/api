@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0983133",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "天塩郡天塩町",
+    "address1": "オヌプナイ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "テシオグンテシオチョウ",
+    "address1Kana": "オヌプナイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0983133",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "天塩郡天塩町",
+    "address1": "雄信内",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "テシオグンテシオチョウ",
+    "address1Kana": "オノブナイ",
+    "address2Kana": ""
+  }
+]

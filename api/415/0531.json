@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "4150531",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "一町田",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "イッチョウダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150531",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "伊浜",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "イハマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150531",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "落居",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "オチイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150531",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "天神原",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "テンジンバラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4980058",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "富島",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "トミシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4980058",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "富島町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "トミシマチョウ",
+    "address2Kana": ""
+  }
+]

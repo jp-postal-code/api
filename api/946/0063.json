@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9460063",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "中家",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "チュウカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460063",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "中家新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "チュウカシンデン",
+    "address2Kana": ""
+  }
+]

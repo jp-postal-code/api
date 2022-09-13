@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6191134",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "木津川市",
+    "address1": "加茂町東小上",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キヅガワシ",
+    "address1Kana": "カモチョウヒガシオカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6191134",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "木津川市",
+    "address1": "加茂町東小下",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キヅガワシ",
+    "address1Kana": "カモチョウヒガシオシタ",
+    "address2Kana": ""
+  }
+]

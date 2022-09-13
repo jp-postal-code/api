@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9110843",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "鹿谷町杉俣",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "シカダニチョウスギマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110843",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "鹿谷町本郷",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "シカダニチョウホンゴウ",
+    "address2Kana": ""
+  }
+]

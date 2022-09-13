@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271237",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町宇都山",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチウツヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271237",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町大坊",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチダイボウ",
+    "address2Kana": ""
+  }
+]

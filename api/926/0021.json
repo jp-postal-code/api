@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9260021",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "巴町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "トモエマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9260021",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "本府中町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "モトフチュウマチ",
+    "address2Kana": ""
+  }
+]

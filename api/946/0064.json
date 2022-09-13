@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9460064",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "池平",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "イケダイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460064",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "池平新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "イケダイラシンデン",
+    "address2Kana": ""
+  }
+]

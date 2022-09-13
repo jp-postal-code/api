@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6512144",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "神戸市西区",
+    "address1": "小山",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "コウベシニシク",
+    "address1Kana": "コヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6512144",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "神戸市西区",
+    "address1": "玉津町小山",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "コウベシニシク",
+    "address1Kana": "タマツチョウコヤマ",
+    "address2Kana": ""
+  }
+]

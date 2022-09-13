@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9291405",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "海老坂",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "エビサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291405",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "針山",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "ハリヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291405",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "聖川",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "ヒジリカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291405",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "平床",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "ヒラトコ",
+    "address2Kana": ""
+  }
+]

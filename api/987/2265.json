@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9872265",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館小淵西",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテコブチニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872265",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館小淵東",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテコブチヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872265",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館境田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテサカイダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872265",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館佐野原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテサノハラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9880267",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "本吉町寺沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "モトヨシチョウテラサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880267",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "本吉町長畑",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "モトヨシチョウナガハタケ",
+    "address2Kana": ""
+  }
+]

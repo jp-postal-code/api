@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696519",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "御池田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "オイケダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696519",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "三谷",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "ミタニ",
+    "address2Kana": ""
+  }
+]

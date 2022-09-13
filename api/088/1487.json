@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0881487",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "茶内東３線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "チャナイヒガシ3セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881487",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "茶内東４線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "チャナイヒガシ4セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881487",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "茶内東５線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "チャナイヒガシ5セン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881487",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "茶内東６線",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "チャナイヒガシ6セン",
+    "address2Kana": ""
+  }
+]

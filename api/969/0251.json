@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9690251",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "神田東",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "カンタヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690251",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "神田西",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "カンタニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690251",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "神田南",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "カンタミナミ",
+    "address2Kana": ""
+  }
+]

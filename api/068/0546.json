@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0680546",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張市",
+    "address1": "南部青葉町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリシ",
+    "address1Kana": "ナンブアオバチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0680546",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "夕張市",
+    "address1": "南部菊水町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ユウバリシ",
+    "address1Kana": "ナンブキクスイチョウ",
+    "address2Kana": ""
+  }
+]

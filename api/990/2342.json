@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9902342",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "山形市",
+    "address1": "富神前",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "ヤマガタシ",
+    "address1Kana": "トガミマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9902342",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "山形市",
+    "address1": "門伝",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "ヤマガタシ",
+    "address1Kana": "モンデン",
+    "address2Kana": ""
+  }
+]

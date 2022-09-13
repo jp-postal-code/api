@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷今井",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤイマイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷小島",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤオシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷佐野",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤサノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷高野",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤタカノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷釣井",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤツルイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7780206",
+    "regionId": 36,
+    "region": "徳島県",
+    "locality": "三好市",
+    "address1": "東祖谷和田",
+    "address2": "",
+    "regionKana": "トクシマケン",
+    "localityKana": "ミヨシシ",
+    "address1Kana": "ヒガシイヤワダ",
+    "address2Kana": ""
+  }
+]

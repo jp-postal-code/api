@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町雨内",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウアマウチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町入野",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウイリノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町上松",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウウエマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町東後明",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウヒガシゴミョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町西後明",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウニシゴミョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780081",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "若狭野町若狭野",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ワカサノチョウワカサノ",
+    "address2Kana": ""
+  }
+]

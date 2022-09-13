@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9110055",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "北郷町伊知地",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "キタゴウチョウイジチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110055",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "北郷町岩屋",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "キタゴウチョウイワヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110055",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "北郷町上野",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "キタゴウチョウウワノ",
+    "address2Kana": ""
+  }
+]

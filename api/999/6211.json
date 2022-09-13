@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9996211",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "最上郡最上町",
+    "address1": "大堀",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "モガミグンモガミマチ",
+    "address1Kana": "オオホリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9996211",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "最上郡最上町",
+    "address1": "瀬見",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "モガミグンモガミマチ",
+    "address1Kana": "セミ",
+    "address2Kana": ""
+  }
+]

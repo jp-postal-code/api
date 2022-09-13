@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6293422",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町河内",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウカッチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293422",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町箱石",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウハコイシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293422",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町湊宮",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウミナトミヤ",
+    "address2Kana": ""
+  }
+]

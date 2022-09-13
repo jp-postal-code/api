@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5980000",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "泉佐野市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "イズミサノシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5980000",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "泉南郡田尻町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "センナングンタジリチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

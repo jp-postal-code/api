@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5202267",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石小田原",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシオダワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5202267",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石小田原町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシオダワラチョウ",
+    "address2Kana": ""
+  }
+]

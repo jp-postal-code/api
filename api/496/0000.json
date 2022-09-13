@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4960000",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "津島市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ツシマシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4960000",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "愛西市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "アイサイシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

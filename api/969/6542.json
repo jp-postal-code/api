@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9696542",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "光明寺東甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "コウミョウジヒガシコウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696542",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "河沼郡会津坂下町",
+    "address1": "古屋敷甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "カワヌマグンアイヅバンゲマチ",
+    "address1Kana": "フルヤシキコウ",
+    "address2Kana": ""
+  }
+]

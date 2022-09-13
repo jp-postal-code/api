@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9393534",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋金尾",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシカナオ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9393534",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋番頭名",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシバンドウミョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8600046",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "横手",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "ヨコテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8600046",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市西区",
+    "address1": "横手",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシニシク",
+    "address1Kana": "ヨコテ",
+    "address2Kana": ""
+  }
+]

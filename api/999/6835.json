@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9996835",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "酒田市",
+    "address1": "蔵小路",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "サカタシ",
+    "address1Kana": "クラコウジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9996835",
+    "regionId": 6,
+    "region": "山形県",
+    "locality": "酒田市",
+    "address1": "本町",
+    "address2": "",
+    "regionKana": "ヤマガタケン",
+    "localityKana": "サカタシ",
+    "address1Kana": "ホンマチ",
+    "address2Kana": ""
+  }
+]

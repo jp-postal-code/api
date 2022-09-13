@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0883221",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "鐺別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "トウベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0883221",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "川上郡弟子屈町",
+    "address1": "鐺別原野",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カワカミグンテシカガチョウ",
+    "address1Kana": "トウベツゲンヤ",
+    "address2Kana": ""
+  }
+]

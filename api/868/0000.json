@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "8680000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "人吉市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "ヒトヨシシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8680000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "球磨郡相良村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマグンサガラムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8680000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "球磨郡山江村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマグンヤマエムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

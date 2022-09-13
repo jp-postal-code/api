@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392683",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "板橋山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "イタバシヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392683",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "大平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オオダイラ",
+    "address2Kana": ""
+  }
+]

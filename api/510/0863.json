@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "5100863",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "四日市市",
+    "address1": "磯津",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ヨッカイチシ",
+    "address1Kana": "イソヅ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5100863",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "四日市市",
+    "address1": "大里町",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ヨッカイチシ",
+    "address1Kana": "オオザトチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5100863",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "四日市市",
+    "address1": "塩浜",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ヨッカイチシ",
+    "address1Kana": "シオハマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5100863",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "四日市市",
+    "address1": "塩浜栄町",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ヨッカイチシ",
+    "address1Kana": "シオハマサカエマチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0391513",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古館",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルダテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391513",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古館向",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルダテムカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391513",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古館向川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルダテムカイカワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391513",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "古館脇",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "フルダテワキ",
+    "address2Kana": ""
+  }
+]

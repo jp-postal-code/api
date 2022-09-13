@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4540961",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "名古屋市中川区",
+    "address1": "戸田明正",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ナゴヤシナカガワク",
+    "address1Kana": "トダメイセイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4540961",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "名古屋市中川区",
+    "address1": "富田町戸田",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ナゴヤシナカガワク",
+    "address1Kana": "トミダチョウトダ",
+    "address2Kana": ""
+  }
+]

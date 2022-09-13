@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9695122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "会津若松市",
+    "address1": "大戸町上三寄乙",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "アイヅワカマツシ",
+    "address1Kana": "オオトマチカミミヨリオツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9695122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "会津若松市",
+    "address1": "大戸町上三寄香塩",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "アイヅワカマツシ",
+    "address1Kana": "オオトマチカミミヨリカシュウ",
+    "address2Kana": ""
+  }
+]

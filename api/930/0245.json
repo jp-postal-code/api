@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9300245",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "中新川郡立山町",
+    "address1": "沢中山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナカニイカワグンタテヤママチ",
+    "address1Kana": "サワナカヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300245",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "中新川郡立山町",
+    "address1": "中山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナカニイカワグンタテヤママチ",
+    "address1Kana": "ナカヤマ",
+    "address2Kana": ""
+  }
+]

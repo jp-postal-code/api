@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9690243",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "中沖",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "ナカオキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690243",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "東川原",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "ヒガシカワハラ",
+    "address2Kana": ""
+  }
+]

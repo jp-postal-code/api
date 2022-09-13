@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9201111",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "魚帰町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "ウオガエリマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201111",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "大菱池町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "オビシケマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201111",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "小菱池町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "コビシケマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9201111",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "金沢市",
+    "address1": "菱池小原町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カナザワシ",
+    "address1Kana": "ヒシイケオハラマチ",
+    "address2Kana": ""
+  }
+]

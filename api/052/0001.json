@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0520001",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "伊達市",
+    "address1": "喜門別町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ダテシ",
+    "address1Kana": "キモンベツチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0520001",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "伊達市",
+    "address1": "志門気町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "ダテシ",
+    "address1Kana": "シモンケチョウ",
+    "address2Kana": ""
+  }
+]

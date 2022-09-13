@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7422601",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "大島郡周防大島町",
+    "address1": "伊保田",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "オオシマグンスオウオオシマチョウ",
+    "address1Kana": "イホタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7422601",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "大島郡周防大島町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "オオシマグンスオウオオシマチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

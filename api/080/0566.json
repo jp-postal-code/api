@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0800566",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河東郡音更町",
+    "address1": "駒場南１条通",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カトウグンオトフケチョウ",
+    "address1Kana": "コマバミナミ1ジョウドオリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0800566",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "河東郡音更町",
+    "address1": "駒場南２条通",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "カトウグンオトフケチョウ",
+    "address1Kana": "コマバミナミ2ジョウドオリ",
+    "address2Kana": ""
+  }
+]

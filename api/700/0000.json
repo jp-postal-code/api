@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "7000000",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市北区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシキタク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7000000",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市中区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシナカク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7000000",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市東区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシヒガシク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7000000",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市南区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシミナミク",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

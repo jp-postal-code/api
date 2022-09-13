@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4300854",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "浜松市中区",
+    "address1": "瓜内町",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ハママツシナカク",
+    "address1Kana": "ウリウチチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4300854",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "浜松市南区",
+    "address1": "瓜内町",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ハママツシミナミク",
+    "address1Kana": "ウリウチチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9690255",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "寺内",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "テラウチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690255",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "寺内東",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "テラウチヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690255",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "寺内西",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "テラウチニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690255",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "寺内南",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "テラウチミナミ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3350000",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "蕨市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "ワラビシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3350000",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "戸田市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "トダシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

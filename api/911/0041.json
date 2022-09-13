@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9110041",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "荒土町北新在家",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "アラドチョウキタシンザイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110041",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "荒土町清水島",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "アラドチョウシミズシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110041",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "荒土町布市",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "アラドチョウヌノイチ",
+    "address2Kana": ""
+  }
+]

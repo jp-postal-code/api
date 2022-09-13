@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392636",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町東山",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチヒガシヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392636",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "婦中町葎原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "フチュウマチムクガハラ",
+    "address2Kana": ""
+  }
+]

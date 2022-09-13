@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6751352",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "青野ケ原町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "アオノガハラチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6751352",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "西山町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "ニシヤマチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6751352",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "復井町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "フクイチョウ",
+    "address2Kana": ""
+  }
+]

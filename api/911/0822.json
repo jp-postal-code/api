@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9110822",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "平泉寺町神野",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ヘイセンジチョウシンノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9110822",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "勝山市",
+    "address1": "平泉寺町平泉寺",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "カツヤマシ",
+    "address1Kana": "ヘイセンジチョウヘイセンジ",
+    "address2Kana": ""
+  }
+]

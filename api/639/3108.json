@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6393108",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "吉野郡吉野町",
+    "address1": "西谷",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヨシノグンヨシノチョウ",
+    "address1Kana": "ニシタニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6393108",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "吉野郡吉野町",
+    "address1": "三津",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヨシノグンヨシノチョウ",
+    "address1Kana": "ミヅ",
+    "address2Kana": ""
+  }
+]

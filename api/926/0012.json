@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9260012",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "報国町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "ホウコクマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9260012",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "万行町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "マンギョウマチ",
+    "address2Kana": ""
+  }
+]

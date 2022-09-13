@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7992416",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "猪木",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "イノキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7992416",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "滝本",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "タキモト",
+    "address2Kana": ""
+  }
+]

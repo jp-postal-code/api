@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9230868",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "日の出町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "ヒノデマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230868",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "八日市町地方",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "ヨウカイチマチジガタ",
+    "address2Kana": ""
+  }
+]

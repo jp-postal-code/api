@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木岡崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキオカザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木岡田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキオカダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木岡部",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキオカベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木豊岡",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキトヨオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキトヨダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木原田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキハラタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木原富",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキハラトミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360211",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "高木松元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "タカキマツモト",
+    "address2Kana": ""
+  }
+]

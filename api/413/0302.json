@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4130302",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡東伊豆町",
+    "address1": "奈良本",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンヒガシイズチョウ",
+    "address1Kana": "ナラモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4130302",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡東伊豆町",
+    "address1": "北川",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンヒガシイズチョウ",
+    "address1Kana": "ホツカワ",
+    "address2Kana": ""
+  }
+]

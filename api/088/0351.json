@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0880351",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "橋西",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "キョウセイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880351",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "坂の丘",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "サカノオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880351",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "下和天別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "シモワテンベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880351",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "和天別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ワテンベツ",
+    "address2Kana": ""
+  }
+]

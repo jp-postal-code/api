@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9718164",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "いわき市",
+    "address1": "小名浜寺廻町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワキシ",
+    "address1Kana": "オナハマテラマワリチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9718164",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "いわき市",
+    "address1": "小名浜西町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワキシ",
+    "address1Kana": "オナハマニシチョウ",
+    "address2Kana": ""
+  }
+]

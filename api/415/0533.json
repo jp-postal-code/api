@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "4150533",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "立岩",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "タテイワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150533",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "妻良",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "メラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4150533",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "賀茂郡南伊豆町",
+    "address1": "吉田",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "カモグンミナミイズチョウ",
+    "address1Kana": "ヨシダ",
+    "address2Kana": ""
+  }
+]

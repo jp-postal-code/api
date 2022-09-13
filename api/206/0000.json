@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "2060000",
+    "regionId": 13,
+    "region": "東京都",
+    "locality": "多摩市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トウキョウト",
+    "localityKana": "タマシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "2060000",
+    "regionId": 13,
+    "region": "東京都",
+    "locality": "稲城市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トウキョウト",
+    "localityKana": "イナギシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

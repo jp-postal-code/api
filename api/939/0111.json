@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9390111",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "福岡町福岡",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "フクオカマチフクオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390111",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "高岡市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "タカオカシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

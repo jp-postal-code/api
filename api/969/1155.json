@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9691155",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮懸鉄",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤカンカネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691155",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮反町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤソリマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691155",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮雲雀田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤヒバリタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9691155",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "本宮市",
+    "address1": "本宮舞台",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "モトミヤシ",
+    "address1Kana": "モトミヤブタイ",
+    "address2Kana": ""
+  }
+]

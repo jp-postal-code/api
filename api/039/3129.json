@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0393129",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "新田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "シンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393129",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "戸田ノ沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "トダノサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393129",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "餅粟川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "モチアワカワラ",
+    "address2Kana": ""
+  }
+]

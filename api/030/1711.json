@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0301711",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "東津軽郡外ヶ浜町",
+    "address1": "三厩源兵衛間",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒガシツガルグンソトガハママチ",
+    "address1Kana": "ミンマヤゲンベイマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0301711",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "東津軽郡外ヶ浜町",
+    "address1": "三厩龍浜",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒガシツガルグンソトガハママチ",
+    "address1Kana": "ミンマヤタツハマ",
+    "address2Kana": ""
+  }
+]

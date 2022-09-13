@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9320371",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利賀村大牧",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トガムラオオマキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320371",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利賀村北原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トガムラキタハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320371",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利賀村下原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トガムラシモハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320371",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利賀村栃原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トガムラトチハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9320371",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "利賀村長崎",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "トガムラナガサキ",
+    "address2Kana": ""
+  }
+]

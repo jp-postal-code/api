@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4901413",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "子宝",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "コダカラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4901413",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "子宝町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "コダカラチョウ",
+    "address2Kana": ""
+  }
+]

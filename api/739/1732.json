@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7391732",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐北区",
+    "address1": "落合南",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサキタク",
+    "address1Kana": "オチアイミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7391732",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "広島市安佐北区",
+    "address1": "落合南町",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ヒロシマシアサキタク",
+    "address1Kana": "オチアイミナミマチ",
+    "address2Kana": ""
+  }
+]

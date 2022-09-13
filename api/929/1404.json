@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9291404",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "新宮",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "シングウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291404",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "当熊",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "トウノクマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291404",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "原",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "ハラ",
+    "address2Kana": ""
+  }
+]

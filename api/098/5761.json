@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0985761",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "智福",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "チフク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0985761",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "山軽",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "ヤマガル",
+    "address2Kana": ""
+  }
+]

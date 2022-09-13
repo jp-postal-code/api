@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "7530084",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "久保小路",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "クボショウジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530084",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "諸願小路",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "ショガンショウジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530084",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "銭湯小路",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "セントウショウジ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9480082",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "本町二丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ホンチョウニチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480082",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "本町三丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ホンチョウサンチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480082",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "本町四丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ホンチョウヨンチョウメ",
+    "address2Kana": ""
+  }
+]

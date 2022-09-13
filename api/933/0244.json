@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江北",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江三箇",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウサンガ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江中",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江後新",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウノチシン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9330244",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "射水市",
+    "address1": "本江南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "イミズシ",
+    "address1Kana": "ホンゴウミナミ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9812186",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "小坊木南",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コボウギミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812186",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "小坊木北",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コボウギキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812186",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "立沢南",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "タツザワミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812186",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "立沢北",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "タツザワキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812186",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "早坂",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ハヤサカ",
+    "address2Kana": ""
+  }
+]

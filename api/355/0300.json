@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "3550300",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "比企郡小川町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "ヒキグンオガワマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3550300",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "比企郡ときがわ町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "ヒキグントキガワマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3550300",
+    "regionId": 11,
+    "region": "埼玉県",
+    "locality": "秩父郡東秩父村",
+    "address1": "",
+    "address2": "",
+    "regionKana": "サイタマケン",
+    "localityKana": "チチブグンヒガシチチブムラ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

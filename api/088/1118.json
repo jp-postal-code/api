@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0881118",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "若竹",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "ワカタケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881118",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "若竹町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "ワカタケチョウ",
+    "address2Kana": ""
+  }
+]

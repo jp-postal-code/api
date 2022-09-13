@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6293412",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町奥三谷",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウオクミタニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293412",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町口三谷",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウクチミタニ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293412",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町三谷",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウミタニ",
+    "address2Kana": ""
+  }
+]

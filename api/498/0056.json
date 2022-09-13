@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4980056",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "稲荷崎",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "イナリザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4980056",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "稲荷崎町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "イナリザキチョウ",
+    "address2Kana": ""
+  }
+]

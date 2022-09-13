@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5031523",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "不破郡関ケ原町",
+    "address1": "小池",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "フワグンセキガハラチョウ",
+    "address1Kana": "コイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5031523",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "不破郡関ケ原町",
+    "address1": "小関",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "フワグンセキガハラチョウ",
+    "address1Kana": "コゼキ",
+    "address2Kana": ""
+  }
+]

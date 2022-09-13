@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5110251",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "員弁郡東員町",
+    "address1": "北山田",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "イナベグントウインチョウ",
+    "address1Kana": "キタヤマダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5110251",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "員弁郡東員町",
+    "address1": "山田",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "イナベグントウインチョウ",
+    "address1Kana": "ヤマダ",
+    "address2Kana": ""
+  }
+]

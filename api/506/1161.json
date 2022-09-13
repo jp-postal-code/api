@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5061161",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "飛騨市",
+    "address1": "神岡町船津",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ヒダシ",
+    "address1Kana": "カミオカチョウフナツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5061161",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "飛騨市",
+    "address1": "神岡町牧ケ平",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ヒダシ",
+    "address1Kana": "カミオカチョウマキガヒラ",
+    "address2Kana": ""
+  }
+]

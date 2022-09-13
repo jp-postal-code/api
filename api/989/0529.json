@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9890529",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "大杉",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "オオスギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890529",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "瀬見原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "セミハラ",
+    "address2Kana": ""
+  }
+]

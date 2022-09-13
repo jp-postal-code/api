@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0360243",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "原大野",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ハラオオノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360243",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "原上原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ハラカミハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360243",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "原北原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ハラキタハラ",
+    "address2Kana": ""
+  }
+]

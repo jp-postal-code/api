@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9401161",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "長岡市",
+    "address1": "左近",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ナガオカシ",
+    "address1Kana": "サコン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9401161",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "長岡市",
+    "address1": "左近町",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ナガオカシ",
+    "address1Kana": "サコンマチ",
+    "address2Kana": ""
+  }
+]

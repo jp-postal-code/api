@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392605",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "淋代",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "サビシロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392605",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "高森",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "タカモリ",
+    "address2Kana": ""
+  }
+]

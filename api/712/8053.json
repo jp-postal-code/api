@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7128053",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "倉敷市",
+    "address1": "呼松",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "クラシキシ",
+    "address1Kana": "ヨビマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7128053",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "倉敷市",
+    "address1": "呼松町",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "クラシキシ",
+    "address1Kana": "ヨビマツチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0191834",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "大仙市",
+    "address1": "南外揚土山",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ダイセンシ",
+    "address1Kana": "ナンガイアゲツチヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0191834",
+    "regionId": 5,
+    "region": "秋田県",
+    "locality": "大仙市",
+    "address1": "南外北田黒瀬",
+    "address2": "",
+    "regionKana": "アキタケン",
+    "localityKana": "ダイセンシ",
+    "address1Kana": "ナンガイキタダクロセ",
+    "address2Kana": ""
+  }
+]

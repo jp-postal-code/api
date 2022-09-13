@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9890516",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "大貫平",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "オオヌキダイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890516",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "上島田原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "カミシマダハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890516",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "下島田原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "シモシマダハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890516",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "西島田原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "ニシシマダハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890516",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "東島田原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "ヒガシシマダハラ",
+    "address2Kana": ""
+  }
+]

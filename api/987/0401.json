@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町新高石前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチシンタカイシマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町高石",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチタカイシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町高石浦",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチタカイシウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町西山成",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチニシヤマナリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町西山成前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチニシヤマナリマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町八の森",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチハチノモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町山成",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチヤマナリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870401",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "南方町山成前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ミナミカタマチヤマナリマエ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9590248",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "吉田浜首",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "ヨシダハマクビ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9590248",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "燕市",
+    "address1": "吉田浜首町",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ツバメシ",
+    "address1Kana": "ヨシダハマクビチョウ",
+    "address2Kana": ""
+  }
+]

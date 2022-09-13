@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9812111",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "神明",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "シンメイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812111",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "神明東",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "シンメイヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812111",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "神明南",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "シンメイミナミ",
+    "address2Kana": ""
+  }
+]

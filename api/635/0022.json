@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6350022",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "大和高田市",
+    "address1": "高田",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヤマトタカダシ",
+    "address1Kana": "タカダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6350022",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "大和高田市",
+    "address1": "日之出町",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヤマトタカダシ",
+    "address1Kana": "ヒノデチョウ",
+    "address2Kana": ""
+  }
+]

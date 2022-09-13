@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9870137",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "新中島乙",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "シンナカジマオツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870137",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "中島",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ナカジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870137",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "中島乙",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ナカジマオツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870137",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "中島川前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ナカジマカワマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870137",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "中島甲",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ナカジマコウ",
+    "address2Kana": ""
+  }
+]

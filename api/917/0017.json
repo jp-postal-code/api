@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9170017",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "江古川",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "エゴガワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170017",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "羽賀",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ハガ",
+    "address2Kana": ""
+  }
+]

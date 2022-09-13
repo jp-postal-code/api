@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5008157",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "五坪",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ゴツボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5008157",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "五坪町",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ゴツボチョウ",
+    "address2Kana": ""
+  }
+]

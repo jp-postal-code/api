@@ -1,0 +1,122 @@
+[
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "池の台",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "イケノダイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "大宮",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "オオミヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "河原",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "カワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "北町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "キタマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "新町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "シンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "諏訪町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "スワマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "成田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "ナリタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "成田原町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "ナリタハラマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "成田東",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "ナリタヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690402",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "岩瀬郡鏡石町",
+    "address1": "東河原",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワセグンカガミイシマチ",
+    "address1Kana": "ヒガシカワラ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7950081",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "大洲市",
+    "address1": "菅田町菅田甲",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "オオズシ",
+    "address1Kana": "スゲタチョウスゲタコウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7950081",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "大洲市",
+    "address1": "菅田町菅田丙",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "オオズシ",
+    "address1Kana": "スゲタチョウスゲタヘイ",
+    "address2Kana": ""
+  }
+]

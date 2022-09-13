@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田一本松",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタイッポンマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田玉田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタタマダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田豊田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタトヨタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田豊富",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタトヨトミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田三原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタミハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360232",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "蒲田元宮",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ガマタモトミヤ",
+    "address2Kana": ""
+  }
+]

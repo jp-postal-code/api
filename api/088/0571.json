@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0880571",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西一条北",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ1ジョウキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880571",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西二条北",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ2ジョウキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0880571",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "白糠郡白糠町",
+    "address1": "西庶路西三条北",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "シラヌカグンシラヌカチョウ",
+    "address1Kana": "ニシショロニシ3ジョウキタ",
+    "address2Kana": ""
+  }
+]

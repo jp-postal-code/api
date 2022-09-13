@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9104147",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "あわら市",
+    "address1": "公文",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "アワラシ",
+    "address1Kana": "クモン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9104147",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "あわら市",
+    "address1": "宮前",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "アワラシ",
+    "address1Kana": "ミヤマエ",
+    "address2Kana": ""
+  }
+]

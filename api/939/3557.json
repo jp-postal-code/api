@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9393557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋新保",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシシンボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9393557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋新保新町",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシシンボシンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9393557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋平榎",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシヒラエノキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9393557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋町袋",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシマチブクロ",
+    "address2Kana": ""
+  }
+]

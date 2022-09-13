@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8160000",
+    "regionId": 40,
+    "region": "福岡県",
+    "locality": "春日市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクオカケン",
+    "localityKana": "カスガシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8160000",
+    "regionId": 40,
+    "region": "福岡県",
+    "locality": "大野城市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクオカケン",
+    "localityKana": "オオノジョウシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

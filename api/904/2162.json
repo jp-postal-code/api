@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9042162",
+    "regionId": 47,
+    "region": "沖縄県",
+    "locality": "沖縄市",
+    "address1": "海邦",
+    "address2": "",
+    "regionKana": "オキナワケン",
+    "localityKana": "オキナワシ",
+    "address1Kana": "カイホウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9042162",
+    "regionId": 47,
+    "region": "沖縄県",
+    "locality": "沖縄市",
+    "address1": "海邦町",
+    "address2": "",
+    "regionKana": "オキナワケン",
+    "localityKana": "オキナワシ",
+    "address1Kana": "カイホウチョウ",
+    "address2Kana": ""
+  }
+]

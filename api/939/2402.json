@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9392402",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町上田池",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチカミタイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392402",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町下田池",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチシモタイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392402",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町八十島",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチヤトジマ",
+    "address2Kana": ""
+  }
+]

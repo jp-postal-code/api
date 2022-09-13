@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8620955",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "神水本町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "クワミズホンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8620955",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市東区",
+    "address1": "神水本町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシヒガシク",
+    "address1Kana": "クワミズホンマチ",
+    "address2Kana": ""
+  }
+]

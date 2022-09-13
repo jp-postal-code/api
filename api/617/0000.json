@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6170000",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "向日市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "ムコウシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6170000",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "長岡京市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "ナガオカキョウシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

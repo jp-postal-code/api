@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "上町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "ウエマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "川原町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "カワラマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "館古",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "タテコ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "福島",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "フクシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "本町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "ホンチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0491312",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "松前郡福島町",
+    "address1": "吉田町",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "マツマエグンフクシマチョウ",
+    "address1Kana": "ヨシダマチ",
+    "address2Kana": ""
+  }
+]

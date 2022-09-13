@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "沖新田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "オキシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "小山下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "コヤマシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "下新田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "シモシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "砂田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "スナタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "八百刈",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ハッピャクガリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "薔薇島",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "バラジマ",
+    "address2Kana": ""
+  }
+]

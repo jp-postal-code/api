@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0391561",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "赤坂",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "アカサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391561",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "越掛沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "コシカケザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391561",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "越掛沢前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "コシカケザワマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391561",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "越掛沢道下モ",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "コシカケザワミチノシモ",
+    "address2Kana": ""
+  }
+]

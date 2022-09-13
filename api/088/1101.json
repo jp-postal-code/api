@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "糸魚沢",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "イトイザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "神岩",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "カムイワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "チライカリベツ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "チライカリベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "別寒辺牛",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "ベカンベウシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "ホロニタイ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "ホロニタイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881101",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡厚岸町",
+    "address1": "若松",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンアッケシチョウ",
+    "address1Kana": "ワカマツ",
+    "address2Kana": ""
+  }
+]

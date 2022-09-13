@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870308",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町小待井",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウコマチイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870308",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町小待井下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウコマチイシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870308",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町待井下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウマチイシタ",
+    "address2Kana": ""
+  }
+]

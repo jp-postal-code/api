@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9872263",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館新田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9872263",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "栗原市",
+    "address1": "築館薬師ケ丘",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "クリハラシ",
+    "address1Kana": "ツキダテヤクシガオカ",
+    "address2Kana": ""
+  }
+]

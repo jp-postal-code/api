@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0391544",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "二階平",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ニカイダイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391544",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "二階平下タ",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ニカイダイラシタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松一本柳",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツイッポンヤナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松上東田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツカミヒガシダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松川崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツカワサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松川原田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツカワラダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松下東田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツシモヒガシダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360163",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "苗生松元東田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ナンバイマツモトヒガシダ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9391735",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "小林",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "コバヤシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9391735",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "南砺市",
+    "address1": "神宮寺",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ナントシ",
+    "address1Kana": "ジングウジ",
+    "address2Kana": ""
+  }
+]

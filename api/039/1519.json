@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391519",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "天満",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "テンマン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391519",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "天満後",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "テンマンウシロ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391519",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "天満下川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "テンマンシモカワラ",
+    "address2Kana": ""
+  }
+]

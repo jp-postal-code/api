@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8600088",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市西区",
+    "address1": "津浦町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシニシク",
+    "address1Kana": "ツノウラマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8600088",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市北区",
+    "address1": "津浦町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシキタク",
+    "address1Kana": "ツノウラマチ",
+    "address2Kana": ""
+  }
+]

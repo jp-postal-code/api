@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0493121",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "二海郡八雲町",
+    "address1": "上八雲",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フタミグンヤクモチョウ",
+    "address1Kana": "カミヤクモ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0493121",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "二海郡八雲町",
+    "address1": "富咲",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "フタミグンヤクモチョウ",
+    "address1Kana": "トミサキ",
+    "address2Kana": ""
+  }
+]

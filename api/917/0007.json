@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9170007",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "下竹原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "シモダワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9170007",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "小浜市",
+    "address1": "西長町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オバマシ",
+    "address1Kana": "ニシナガマチ",
+    "address2Kana": ""
+  }
+]

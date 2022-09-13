@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5110200",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "いなべ市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "イナベシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5110200",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "員弁郡東員町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "イナベグントウインチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

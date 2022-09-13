@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9150804",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "新保",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "シンボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9150804",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "新保町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "シンボチョウ",
+    "address2Kana": ""
+  }
+]

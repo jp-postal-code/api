@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7942503",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "越智郡上島町",
+    "address1": "弓削上弓削",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "オチグンカミジマチョウ",
+    "address1Kana": "ユゲカミユゲ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7942503",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "越智郡上島町",
+    "address1": "弓削百貫",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "オチグンカミジマチョウ",
+    "address1Kana": "ユゲヒャッカン",
+    "address2Kana": ""
+  }
+]

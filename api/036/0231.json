@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0360231",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新山岡部",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイヤマオカベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360231",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新山松橋",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイヤママツハシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360231",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新山村元",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイヤマムラモト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360231",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新山柳田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイヤマヤナギダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360231",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新山早稲田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイヤマワセダ",
+    "address2Kana": ""
+  }
+]

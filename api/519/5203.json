@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5195203",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "南牟婁郡御浜町",
+    "address1": "下市木",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ミナミムログンミハマチョウ",
+    "address1Kana": "シモイチギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5195203",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "南牟婁郡御浜町",
+    "address1": "萩内",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "ミナミムログンミハマチョウ",
+    "address1Kana": "ハギウチ",
+    "address2Kana": ""
+  }
+]

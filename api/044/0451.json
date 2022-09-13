@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0440451",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "上尻別",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "カミシリベツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0440451",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "虻田郡喜茂別町",
+    "address1": "鈴川",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アブタグンキモベツチョウ",
+    "address1Kana": "スズカワ",
+    "address2Kana": ""
+  }
+]

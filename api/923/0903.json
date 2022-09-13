@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9230903",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "丸の内公園町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "マルノウチコウエンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230903",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "丸の内町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "マルノウチマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9230903",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "小松市",
+    "address1": "丸内町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "コマツシ",
+    "address1Kana": "マルノウチマチ",
+    "address2Kana": ""
+  }
+]

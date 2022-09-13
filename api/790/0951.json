@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7900951",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "天山",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "アマヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7900951",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "天山町",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "アマヤママチ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9693112",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "堤",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ツツミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693112",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "寺後",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "テラゴ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693112",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "中町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ナカマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693112",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "馬場",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ババ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693112",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "弁才天西",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ベンザイテンニシ",
+    "address2Kana": ""
+  }
+]

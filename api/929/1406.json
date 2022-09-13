@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9291406",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "石坂",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "イシサカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291406",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "下石",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "サガリシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9291406",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "羽咋郡宝達志水町",
+    "address1": "散田",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ハクイグンホウダツシミズチョウ",
+    "address1Kana": "サンデン",
+    "address2Kana": ""
+  }
+]

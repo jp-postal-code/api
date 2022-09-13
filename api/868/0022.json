@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8680022",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "人吉市",
+    "address1": "願成寺町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "ヒトヨシシ",
+    "address1Kana": "ガンジョウジマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8680022",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "人吉市",
+    "address1": "北願成寺町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "ヒトヨシシ",
+    "address1Kana": "キタガンジョウジマチ",
+    "address2Kana": ""
+  }
+]

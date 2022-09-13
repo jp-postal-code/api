@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6350093",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "大和高田市",
+    "address1": "礒野",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヤマトタカダシ",
+    "address1Kana": "イソノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6350093",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "大和高田市",
+    "address1": "礒野町",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヤマトタカダシ",
+    "address1Kana": "イソノチョウ",
+    "address2Kana": ""
+  }
+]

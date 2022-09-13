@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7292253",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "幸崎渡瀬",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "サイザキワタセ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7292253",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "幸崎町渡瀬",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "サイザキチョウワタセ",
+    "address2Kana": ""
+  }
+]

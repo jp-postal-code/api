@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6750000",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "加古川市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "カコガワシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6750000",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "加西市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "カサイシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

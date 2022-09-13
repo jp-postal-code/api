@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392674",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "千曳下山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "チビキシモヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392674",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "夫雑原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ブゾウハラ",
+    "address2Kana": ""
+  }
+]

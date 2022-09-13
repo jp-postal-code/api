@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0392623",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "大久保",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オオクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392623",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "鶴ケ崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ツルガサキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392623",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "横志多",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ヨコシダ",
+    "address2Kana": ""
+  }
+]

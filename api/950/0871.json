@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9500871",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市東区",
+    "address1": "山木戸",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシヒガシク",
+    "address1Kana": "ヤマキド",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9500871",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市中央区",
+    "address1": "山木戸",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシチュウオウク",
+    "address1Kana": "ヤマキド",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271238",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町延武",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチノブタケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271238",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "若山町火宮",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ワカヤママチヒミヤ",
+    "address2Kana": ""
+  }
+]

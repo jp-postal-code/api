@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8600862",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "黒髪",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "クロカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8600862",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市北区",
+    "address1": "黒髪",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシキタク",
+    "address1Kana": "クロカミ",
+    "address2Kana": ""
+  }
+]

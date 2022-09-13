@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0881403",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "アザラップ",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "アザラップ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0881403",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "厚岸郡浜中町",
+    "address1": "幌戸",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "アッケシグンハマナカチョウ",
+    "address1Kana": "ポロト",
+    "address2Kana": ""
+  }
+]

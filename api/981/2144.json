@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9812144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "大畑",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "オオバタケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "大畑前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "オオバタケマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "土ケ森",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ツチガモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "武士沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ブシザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812144",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "由縄坂",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヨナザカ",
+    "address2Kana": ""
+  }
+]

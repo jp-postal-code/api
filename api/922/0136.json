@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉枯淵町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンカレブチマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉九谷町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンクタニマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉坂下町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンサカノシモマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉杉水町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンスギノミズマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉片谷町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンヘキタニマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9220136",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "加賀市",
+    "address1": "山中温泉真砂町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カガシ",
+    "address1Kana": "ヤマナカオンセンマナゴマチ",
+    "address2Kana": ""
+  }
+]

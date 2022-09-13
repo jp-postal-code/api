@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "5192412",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "多気郡大台町",
+    "address1": "川合",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "タキグンオオダイチョウ",
+    "address1Kana": "カワイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5192412",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "多気郡大台町",
+    "address1": "下菅",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "タキグンオオダイチョウ",
+    "address1Kana": "シモスガ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5192412",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "多気郡大台町",
+    "address1": "菅合",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "タキグンオオダイチョウ",
+    "address1Kana": "スガアイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5192412",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "多気郡大台町",
+    "address1": "滝広",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "タキグンオオダイチョウ",
+    "address1Kana": "タキヒロ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8710039",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "新天神町",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "シンテンジンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8710039",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "天神町",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "テンジンマチ",
+    "address2Kana": ""
+  }
+]

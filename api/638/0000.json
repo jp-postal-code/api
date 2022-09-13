@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6380000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "吉野郡大淀町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヨシノグンオオヨドチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6380000",
+    "regionId": 29,
+    "region": "奈良県",
+    "locality": "吉野郡下市町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナラケン",
+    "localityKana": "ヨシノグンシモイチチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

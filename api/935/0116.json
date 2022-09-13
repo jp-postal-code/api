@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9350116",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "氷見市",
+    "address1": "三田窪",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ヒミシ",
+    "address1Kana": "ミタクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9350116",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "氷見市",
+    "address1": "矢田部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "ヒミシ",
+    "address1Kana": "ヤタベ",
+    "address2Kana": ""
+  }
+]

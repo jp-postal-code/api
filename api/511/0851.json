@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5110851",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "桑名市",
+    "address1": "希望ケ丘",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "クワナシ",
+    "address1Kana": "キボウガオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5110851",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "桑名市",
+    "address1": "西別所",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "クワナシ",
+    "address1Kana": "ニシベッシヨ",
+    "address2Kana": ""
+  }
+]

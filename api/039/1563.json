@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "岡谷地",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "オカヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "毛無森",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ケナシモリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "大学沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ダイガクザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "大学沢向",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ダイガクザワムカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "大工窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ダイククボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391563",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "平佐窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ヘイサクボ",
+    "address2Kana": ""
+  }
+]

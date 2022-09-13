@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7292251",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "幸崎久和喜",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "サイザキクワキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7292251",
+    "regionId": 34,
+    "region": "広島県",
+    "locality": "三原市",
+    "address1": "幸崎町久和喜",
+    "address2": "",
+    "regionKana": "ヒロシマケン",
+    "localityKana": "ミハラシ",
+    "address1Kana": "サイザキチョウクワキ",
+    "address2Kana": ""
+  }
+]

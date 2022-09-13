@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9480066",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "袋町中",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "フクロチョウナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480066",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "袋町西",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "フクロチョウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480066",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "袋町東",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "フクロチョウヒガシ",
+    "address2Kana": ""
+  }
+]

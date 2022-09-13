@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9300106",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "高木",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タカギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300106",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "高木東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タカギヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300106",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "高木西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タカギニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300106",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "高木南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "タカギミナミ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7992110",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "今治市",
+    "address1": "波方町大浦",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "イマバリシ",
+    "address1Kana": "ナミカタチョウオオウラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7992110",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "今治市",
+    "address1": "波方町郷",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "イマバリシ",
+    "address1Kana": "ナミカタチョウゴウ",
+    "address2Kana": ""
+  }
+]

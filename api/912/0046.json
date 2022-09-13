@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120046",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "神明",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シンメイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120046",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "神明町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "シンメイチョウ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7060314",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "玉野市",
+    "address1": "東野崎",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "タマノシ",
+    "address1Kana": "ヒガシノザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7060314",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "玉野市",
+    "address1": "山田",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "タマノシ",
+    "address1Kana": "ヤマダ",
+    "address2Kana": ""
+  }
+]

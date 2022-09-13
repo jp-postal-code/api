@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7530091",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "上宇野令",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "カミウノレイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7530091",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "山口市",
+    "address1": "天花",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "ヤマグチシ",
+    "address1Kana": "テンゲ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392414",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町東松瀬",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチヒガシマツゼ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392414",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町猟師ケ原",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチリョウシガハラ",
+    "address2Kana": ""
+  }
+]

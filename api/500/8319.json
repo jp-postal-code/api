@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5008319",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "桜木町",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "サクラギチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5008319",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

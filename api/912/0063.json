@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9120063",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "阿難祖地頭方",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "アドソジトウホウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9120063",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "大野市",
+    "address1": "阿難祖領家",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "オオノシ",
+    "address1Kana": "アドソリョウケ",
+    "address2Kana": ""
+  }
+]

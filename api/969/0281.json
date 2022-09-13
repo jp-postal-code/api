@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9690281",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "境町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "サカイチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9690281",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "西白河郡矢吹町",
+    "address1": "馬場",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ニシシラカワグンヤブキマチ",
+    "address1Kana": "ババ",
+    "address2Kana": ""
+  }
+]

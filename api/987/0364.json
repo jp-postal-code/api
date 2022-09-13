@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9870364",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町下古屋",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウシモコヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870364",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町土手下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウドテシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870364",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "豊里町本地土手下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "トヨサトチョウホンチドテシタ",
+    "address2Kana": ""
+  }
+]

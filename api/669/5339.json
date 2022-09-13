@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "6695339",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "豊岡市",
+    "address1": "日高町大岡",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "トヨオカシ",
+    "address1Kana": "ヒダカチョウオオオカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6695339",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "豊岡市",
+    "address1": "日高町河江",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "トヨオカシ",
+    "address1Kana": "ヒダカチョウカワエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6695339",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "豊岡市",
+    "address1": "日高町小河江",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "トヨオカシ",
+    "address1Kana": "ヒダカチョウコガワエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6695339",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "豊岡市",
+    "address1": "日高町八代",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "トヨオカシ",
+    "address1Kana": "ヒダカチョウヤシロ",
+    "address2Kana": ""
+  }
+]

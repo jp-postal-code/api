@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6751362",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "久保木町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "クボキチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6751362",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "小野市",
+    "address1": "高山町",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "オノシ",
+    "address1Kana": "タカヤマチョウ",
+    "address2Kana": ""
+  }
+]

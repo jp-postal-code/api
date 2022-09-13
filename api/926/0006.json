@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9260006",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "大田新町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "オオタシンマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9260006",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "七尾市",
+    "address1": "大田町",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ナナオシ",
+    "address1Kana": "オオタマチ",
+    "address2Kana": ""
+  }
+]

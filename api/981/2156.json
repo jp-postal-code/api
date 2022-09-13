@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9812156",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "うるし原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ウルシバラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812156",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "小塚",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コヅカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812156",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "玉貫",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "タマヌキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812156",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "菱川内",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヒシカワウチ",
+    "address2Kana": ""
+  }
+]

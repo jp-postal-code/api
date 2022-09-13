@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392643",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "乙部道ノ上",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オトベミチノカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392643",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "乙部道ノ下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "オトベミチノシモ",
+    "address2Kana": ""
+  }
+]

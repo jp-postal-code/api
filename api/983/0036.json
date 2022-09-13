@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9830036",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "仙台市宮城野区",
+    "address1": "苦竹",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "センダイシミヤギノク",
+    "address1Kana": "ニガタケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9830036",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "仙台市宮城野区",
+    "address1": "原町苦竹",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "センダイシミヤギノク",
+    "address1Kana": "ハラノマチニガタケ",
+    "address2Kana": ""
+  }
+]

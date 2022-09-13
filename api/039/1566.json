@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0391566",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "幸ノ神",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "サイノカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391566",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "幸ノ神前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "サイノカミマエ",
+    "address2Kana": ""
+  }
+]

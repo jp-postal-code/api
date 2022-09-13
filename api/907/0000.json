@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9070000",
+    "regionId": 47,
+    "region": "沖縄県",
+    "locality": "石垣市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オキナワケン",
+    "localityKana": "イシガキシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9070000",
+    "regionId": 47,
+    "region": "沖縄県",
+    "locality": "八重山郡竹富町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オキナワケン",
+    "localityKana": "ヤエヤマグンタケトミチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

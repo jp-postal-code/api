@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9812122",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "荒田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "アラダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812122",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "福沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "フクザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812122",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "福沢前",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "フクザワマエ",
+    "address2Kana": ""
+  }
+]

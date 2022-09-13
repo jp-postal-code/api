@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0392644",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "保戸沢家ノ上",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ホドサワイエノカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392644",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "保戸沢家ノ前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ホドサワイエノマエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392644",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "保戸沢家ノ後",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ホドサワイエノウシロ",
+    "address2Kana": ""
+  }
+]

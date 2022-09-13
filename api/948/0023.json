@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9480023",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "宮下町西",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ミヤシタチョウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480023",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "宮下町東",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "ミヤシタチョウヒガシ",
+    "address2Kana": ""
+  }
+]

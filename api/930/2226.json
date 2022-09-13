@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町中",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町東",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町南",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウミナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302226",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八町北",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ハッチョウキタ",
+    "address2Kana": ""
+  }
+]

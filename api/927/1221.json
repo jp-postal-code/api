@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9271221",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町春日野",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチカスガノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9271221",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "珠洲市",
+    "address1": "宝立町金峰寺",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "スズシ",
+    "address1Kana": "ホウリュウマチコンポウジ",
+    "address2Kana": ""
+  }
+]

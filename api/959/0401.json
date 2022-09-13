@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9590401",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西区",
+    "address1": "與兵衛野新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシク",
+    "address1Kana": "ヨヘエノシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9590401",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "新潟市西蒲区",
+    "address1": "與兵衛野新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ニイガタシニシカンク",
+    "address1Kana": "ヨヘエノシンデン",
+    "address2Kana": ""
+  }
+]

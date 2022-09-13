@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6293438",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町浦明",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウウラケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6293438",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "京丹後市",
+    "address1": "久美浜町長柄",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "キョウタンゴシ",
+    "address1Kana": "クミハマチョウナガラ",
+    "address2Kana": ""
+  }
+]

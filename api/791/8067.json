@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7918067",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "古三津",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "フルミツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7918067",
+    "regionId": 38,
+    "region": "愛媛県",
+    "locality": "松山市",
+    "address1": "古三津町",
+    "address2": "",
+    "regionKana": "エヒメケン",
+    "localityKana": "マツヤマシ",
+    "address1Kana": "フルミツマチ",
+    "address2Kana": ""
+  }
+]

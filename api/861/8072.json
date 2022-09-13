@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "8618072",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "室園町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "ムロゾノマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8618072",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市北区",
+    "address1": "室園町",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシキタク",
+    "address1Kana": "ムロゾノマチ",
+    "address2Kana": ""
+  }
+]

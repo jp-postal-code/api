@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0288406",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "猿山",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "サルヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288406",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "年呂部",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "トシロベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288406",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "七滝",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "ナナタキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288406",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "室場",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "ムロバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288406",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "目名",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "メナ",
+    "address2Kana": ""
+  }
+]

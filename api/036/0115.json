@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館後野",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテウシロノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館柏崎",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテカシワザキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館駒泊",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテコマドマリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館島村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテシマムラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館野木和",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテノギワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館東山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテヒガシヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館藤巻",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテフジマキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360115",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "新館藤山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "ニイダテフジヤマ",
+    "address2Kana": ""
+  }
+]

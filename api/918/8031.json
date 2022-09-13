@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9188031",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "種池",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "タナイケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9188031",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "福井市",
+    "address1": "種池町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "フクイシ",
+    "address1Kana": "タナイケチョウ",
+    "address2Kana": ""
+  }
+]

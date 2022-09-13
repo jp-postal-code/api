@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "8610000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市中央区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシチュウオウク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8610000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市東区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシヒガシク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8610000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市西区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシニシク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8610000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市南区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシミナミク",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8610000",
+    "regionId": 43,
+    "region": "熊本県",
+    "locality": "熊本市北区",
+    "address1": "",
+    "address2": "",
+    "regionKana": "クマモトケン",
+    "localityKana": "クマモトシキタク",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

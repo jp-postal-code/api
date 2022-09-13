@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9150011",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "金屋町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "カナヤチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9150011",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "越前市",
+    "address1": "上真柄町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "エチゼンシ",
+    "address1Kana": "カミマカラチョウ",
+    "address2Kana": ""
+  }
+]

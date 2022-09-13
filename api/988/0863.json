@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9880863",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "黒沢",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "クロサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9880863",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "気仙沼市",
+    "address1": "芳ノ口",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "ケセンヌマシ",
+    "address1Kana": "ヨシノクチ",
+    "address2Kana": ""
+  }
+]

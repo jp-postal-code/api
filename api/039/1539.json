@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0391539",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "石沢境",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イシザワサカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391539",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "中ノ沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ナカノサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391539",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "中ノ沢西張",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ナカノサワニシハリ",
+    "address2Kana": ""
+  }
+]

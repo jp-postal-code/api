@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7421513",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "熊毛郡田布施町",
+    "address1": "麻郷",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "クマゲグンタブセチョウ",
+    "address1Kana": "オゴウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7421513",
+    "regionId": 35,
+    "region": "山口県",
+    "locality": "熊毛郡田布施町",
+    "address1": "麻郷団地",
+    "address2": "",
+    "regionKana": "ヤマグチケン",
+    "localityKana": "クマゲグンタブセチョウ",
+    "address1Kana": "オゴウダンチ",
+    "address2Kana": ""
+  }
+]

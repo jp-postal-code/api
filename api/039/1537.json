@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0391537",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "ウルエ長根",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウルエナガネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391537",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "ウルエ長根下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ウルエナガネシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391537",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "追分",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "オイワケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391537",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "二本柳",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ニホンヤナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391537",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "二本柳向",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "ニホンヤナギムカイ",
+    "address2Kana": ""
+  }
+]

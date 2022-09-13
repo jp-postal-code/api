@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0391505",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "石仏",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イシボトケ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391505",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "石仏上川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イシボトケカミカワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391505",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "石仏下川原",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イシボトケシモカワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391505",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "石仏前",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イシボトケマエ",
+    "address2Kana": ""
+  }
+]

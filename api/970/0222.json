@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9700222",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "いわき市",
+    "address1": "平沼ノ内",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワキシ",
+    "address1Kana": "タイラヌマノウチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9700222",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "いわき市",
+    "address1": "平沼ノ内諏訪原",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "イワキシ",
+    "address1Kana": "タイラヌマノウチスワハラ",
+    "address2Kana": ""
+  }
+]

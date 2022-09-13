@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0393175",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "地続山",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ジツヅキヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393175",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "湯沢",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ユザワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0393175",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡野辺地町",
+    "address1": "湯沢尻",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグンノヘジマチ",
+    "address1Kana": "ユザワジリ",
+    "address2Kana": ""
+  }
+]

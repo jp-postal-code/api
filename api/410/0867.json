@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "下中溝",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "シモナカミゾ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "千本",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "センボン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "出口町",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "デグチチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "西松下",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "ニシマツシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "本",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "ホン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "前田",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "マエダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4100867",
+    "regionId": 22,
+    "region": "静岡県",
+    "locality": "沼津市",
+    "address1": "松下七反田",
+    "address2": "",
+    "regionKana": "シズオカケン",
+    "localityKana": "ヌマヅシ",
+    "address1Kana": "マツシタヒチタンダ",
+    "address2Kana": ""
+  }
+]

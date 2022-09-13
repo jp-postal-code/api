@@ -1,0 +1,98 @@
+[
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "赤間屋敷",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "アカマヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "掃部沖名",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "カモンオキナ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "後藤江",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ゴトウエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "今左衛門沖名",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "コンザエモンオキナ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "新田",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "シンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "関谷沖名",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "セキヤオキナ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "台所橋道下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "ダイドコロバシミチシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870133",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "遠田郡涌谷町",
+    "address1": "鷹野橋下中瀬",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トオダグンワクヤチョウ",
+    "address1Kana": "タカノバシシモナカゼ",
+    "address2Kana": ""
+  }
+]

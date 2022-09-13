@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "新町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "アラマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "カキ田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "カキタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "ガギ田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ガギタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "坂下",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "サカシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "塚田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ツカタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "町尻",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "マチジリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693122",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "本町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "モトマチ",
+    "address2Kana": ""
+  }
+]

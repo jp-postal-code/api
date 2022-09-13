@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0392672",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "栗山添",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "クリヤマゾイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0392672",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "上北郡東北町",
+    "address1": "向籏屋",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "カミキタグントウホクマチ",
+    "address1Kana": "ムカイハタヤ",
+    "address2Kana": ""
+  }
+]

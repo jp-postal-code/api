@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4093800",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "中央市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "チュウオウシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4093800",
+    "regionId": 19,
+    "region": "山梨県",
+    "locality": "中巨摩郡昭和町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ヤマナシケン",
+    "localityKana": "ナカコマグンショウワチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

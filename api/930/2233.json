@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9302233",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "布目",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヌノメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302233",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "布目西",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヌノメニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302233",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "布目北",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヌノメキタ",
+    "address2Kana": ""
+  }
+]

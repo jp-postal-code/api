@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9480065",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "高田町三丁目",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "タカダチョウサンチョウメ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480065",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "高田町三丁目西",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "タカダチョウサンチョウメニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9480065",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "十日町市",
+    "address1": "高田町三丁目南",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "トオカマチシ",
+    "address1Kana": "タカダチョウサンチョウメミナミ",
+    "address2Kana": ""
+  }
+]

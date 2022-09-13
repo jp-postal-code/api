@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0288405",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "大芦",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "オオアシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288405",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "切牛",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "キリウシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288405",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "浜岩泉",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "ハマイワイズミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288405",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "真木沢",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "マギサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288405",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "南大芦",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "ミナミオオアシ",
+    "address2Kana": ""
+  }
+]

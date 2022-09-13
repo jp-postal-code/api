@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9102523",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "今立郡池田町",
+    "address1": "河内",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "イマダテグンイケダチョウ",
+    "address1Kana": "コウチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9102523",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "今立郡池田町",
+    "address1": "志津原",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "イマダテグンイケダチョウ",
+    "address1Kana": "シヅハラ",
+    "address2Kana": ""
+  }
+]

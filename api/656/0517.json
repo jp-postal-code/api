@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6560517",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "南あわじ市",
+    "address1": "賀集内ケ原",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ミナミアワジシ",
+    "address1Kana": "カシュウウチガハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6560517",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "南あわじ市",
+    "address1": "賀集生子",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ミナミアワジシ",
+    "address1Kana": "カシュウセイゴ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6560517",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "南あわじ市",
+    "address1": "賀集長原",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "ミナミアワジシ",
+    "address1Kana": "カシュウナガハラ",
+    "address2Kana": ""
+  }
+]

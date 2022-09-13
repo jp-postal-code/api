@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "8710046",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8710046",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "西堀端",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "ニシホリバタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8710046",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "東堀端",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "ヒガシホリバタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "8710046",
+    "regionId": 44,
+    "region": "大分県",
+    "locality": "中津市",
+    "address1": "古金谷",
+    "address2": "",
+    "regionKana": "オオイタケン",
+    "localityKana": "ナカツシ",
+    "address1Kana": "フルカナヤ",
+    "address2Kana": ""
+  }
+]

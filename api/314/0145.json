@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3140145",
+    "regionId": 8,
+    "region": "茨城県",
+    "locality": "神栖市",
+    "address1": "平泉外１２入会",
+    "address2": "",
+    "regionKana": "イバラキケン",
+    "localityKana": "カミスシ",
+    "address1Kana": "ヒライズミソト12イリアイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3140145",
+    "regionId": 8,
+    "region": "茨城県",
+    "locality": "神栖市",
+    "address1": "平泉東",
+    "address2": "",
+    "regionKana": "イバラキケン",
+    "localityKana": "カミスシ",
+    "address1Kana": "ヒライズミヒガシ",
+    "address2Kana": ""
+  }
+]

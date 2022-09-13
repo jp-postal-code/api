@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5030112",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "安八郡安八町",
+    "address1": "芝原",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "アンパチグンアンパチチョウ",
+    "address1Kana": "シバハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5030112",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "安八郡安八町",
+    "address1": "東結",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "アンパチグンアンパチチョウ",
+    "address1Kana": "ヒガシムスブ",
+    "address2Kana": ""
+  }
+]

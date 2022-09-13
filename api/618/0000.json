@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6180000",
+    "regionId": 26,
+    "region": "京都府",
+    "locality": "乙訓郡大山崎町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "キョウトフ",
+    "localityKana": "オトクニグンオオヤマザキチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6180000",
+    "regionId": 27,
+    "region": "大阪府",
+    "locality": "三島郡島本町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "オオサカフ",
+    "localityKana": "ミシマグンシマモトチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

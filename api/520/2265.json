@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5202265",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石富川",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシトミカワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5202265",
+    "regionId": 25,
+    "region": "滋賀県",
+    "locality": "大津市",
+    "address1": "大石富川町",
+    "address2": "",
+    "regionKana": "シガケン",
+    "localityKana": "オオツシ",
+    "address1Kana": "オオイシトミカワチョウ",
+    "address2Kana": ""
+  }
+]

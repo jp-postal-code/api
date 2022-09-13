@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9812182",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "覆盆子原",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "イチゴハラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812182",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "大鹿野",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "オオガノ",
+    "address2Kana": ""
+  }
+]

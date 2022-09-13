@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "9300108",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "本郷",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ホンゴウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300108",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "本郷中部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ホンゴウチュウブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300108",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "本郷東部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ホンゴウトウブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300108",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "本郷西部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ホンゴウセイブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9300108",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "本郷北部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ホンゴウホクブ",
+    "address2Kana": ""
+  }
+]

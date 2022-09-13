@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9290434",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "河北郡津幡町",
+    "address1": "常徳",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カホクグンツバタマチ",
+    "address1Kana": "ジョウトク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9290434",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "河北郡津幡町",
+    "address1": "舟尾",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "カホクグンツバタマチ",
+    "address1Kana": "フナオ",
+    "address2Kana": ""
+  }
+]

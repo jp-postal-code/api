@@ -1,0 +1,74 @@
+[
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町上佐波",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウカミサバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町上佐波西",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウカミサバニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町上佐波東",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウカミサバヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町佐波",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウサバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町下佐波",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウシモサバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5016121",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "岐阜市",
+    "address1": "柳津町下佐波西",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ギフシ",
+    "address1Kana": "ヤナイヅチョウシモサバニシ",
+    "address2Kana": ""
+  }
+]

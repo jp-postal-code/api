@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7038207",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市北区",
+    "address1": "祇園",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシキタク",
+    "address1Kana": "ギオン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7038207",
+    "regionId": 33,
+    "region": "岡山県",
+    "locality": "岡山市中区",
+    "address1": "祇園",
+    "address2": "",
+    "regionKana": "オカヤマケン",
+    "localityKana": "オカヤマシナカク",
+    "address1Kana": "ギオン",
+    "address2Kana": ""
+  }
+]

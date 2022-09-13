@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9591975",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "阿賀野市",
+    "address1": "荻島",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "アガノシ",
+    "address1Kana": "オギシマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9591975",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "阿賀野市",
+    "address1": "上飯塚",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "アガノシ",
+    "address1Kana": "カミイイヅカ",
+    "address2Kana": ""
+  }
+]

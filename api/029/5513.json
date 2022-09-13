@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "甲子５１地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "カッチ51チワリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "草井沢４７地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "クサイザワ47チワリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "本内４６地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "ホンナイ46チワリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "耳取４９地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "ミミドリ49チワリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "本屋敷４８地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "モトヤシキ48チワリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0295513",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "和賀郡西和賀町",
+    "address1": "鷲之巣５０地割",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ワガグンニシワガマチ",
+    "address1Kana": "ワシノス50チワリ",
+    "address2Kana": ""
+  }
+]

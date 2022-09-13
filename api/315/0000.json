@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3150000",
+    "regionId": 8,
+    "region": "茨城県",
+    "locality": "石岡市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "イバラキケン",
+    "localityKana": "イシオカシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3150000",
+    "regionId": 8,
+    "region": "茨城県",
+    "locality": "かすみがうら市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "イバラキケン",
+    "localityKana": "カスミガウラシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

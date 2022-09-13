@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0270021",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "宮古市",
+    "address1": "藤原",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ミヤコシ",
+    "address1Kana": "フジワラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0270021",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "宮古市",
+    "address1": "藤原上町",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ミヤコシ",
+    "address1Kana": "フジワラカミマチ",
+    "address2Kana": ""
+  }
+]

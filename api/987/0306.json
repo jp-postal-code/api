@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9870306",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町地蔵川",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウジゾウガワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9870306",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "登米市",
+    "address1": "米山町土佐ケ渕",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "トメシ",
+    "address1Kana": "ヨネヤマチョウトサガフチ",
+    "address2Kana": ""
+  }
+]

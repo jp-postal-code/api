@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9637712",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "込木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "クグリキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637712",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "八方谷",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ハッポウヤ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637712",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "楽内",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ラクウチ",
+    "address2Kana": ""
+  }
+]

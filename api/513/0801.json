@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5130801",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "鈴鹿市",
+    "address1": "神戸",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "スズカシ",
+    "address1Kana": "カンベ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5130801",
+    "regionId": 24,
+    "region": "三重県",
+    "locality": "鈴鹿市",
+    "address1": "神戸本多町",
+    "address2": "",
+    "regionKana": "ミエケン",
+    "localityKana": "スズカシ",
+    "address1Kana": "カンベホンダマチ",
+    "address2Kana": ""
+  }
+]

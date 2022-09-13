@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "9460121",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "小庭名",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "コテンミョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460121",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "小庭名新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "コテンミョウシンデン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460121",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "吉平",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "ヨシダイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9460121",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "魚沼市",
+    "address1": "連日",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ウオヌマシ",
+    "address1Kana": "レンニチ",
+    "address2Kana": ""
+  }
+]

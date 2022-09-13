@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0985703",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "斜内",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "シャナイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0985703",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "枝幸郡浜頓別町",
+    "address1": "豊浜",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "エサシグンハマトンベツチョウ",
+    "address1Kana": "トヨハマ",
+    "address2Kana": ""
+  }
+]

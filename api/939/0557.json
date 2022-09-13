@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9390557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋大正",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシタイショウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋大正南部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシタイショウナンブ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9390557",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "水橋大正北部",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ミズハシタイショウホクブ",
+    "address2Kana": ""
+  }
+]

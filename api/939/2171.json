@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392171",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "薄波",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ウスナミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392171",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "太田薄波",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "オオタウスナミ",
+    "address2Kana": ""
+  }
+]

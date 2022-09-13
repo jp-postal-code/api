@@ -1,0 +1,62 @@
+[
+  {
+    "postalCode": "0391521",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "五百窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イオクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391521",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "泉窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "イズミクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391521",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "大渡",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "オオワタリ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391521",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "大渡道ノ下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "オオワタリミチノシモ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391521",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "久蔵窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "キュウゾウクボ",
+    "address2Kana": ""
+  }
+]

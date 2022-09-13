@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "0895634",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "帯富",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "オビトミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0895634",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "十勝郡浦幌町",
+    "address1": "時和",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "トカチグンウラホロチョウ",
+    "address1Kana": "トキワ",
+    "address2Kana": ""
+  }
+]

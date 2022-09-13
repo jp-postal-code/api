@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "7871107",
+    "regionId": 39,
+    "region": "高知県",
+    "locality": "四万十市",
+    "address1": "岩田",
+    "address2": "",
+    "regionKana": "コウチケン",
+    "localityKana": "シマントシ",
+    "address1Kana": "イワタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "7871107",
+    "regionId": 39,
+    "region": "高知県",
+    "locality": "四万十市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "コウチケン",
+    "localityKana": "シマントシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  }
+]

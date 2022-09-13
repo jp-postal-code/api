@@ -1,0 +1,122 @@
+[
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "欠入上",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カケイリカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "欠入下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カケイリシモ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "欠入菅",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カケイリスゲ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "欠入前山",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "カケイリマエヤマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "関場",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "セキバ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "手掛橋中",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "テカケバシナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "手掛橋東",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "テカケバシヒガシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "手掛橋西",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "テカケバシニシ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "中道",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ナカミチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812146",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "広町",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "ヒロマチ",
+    "address2Kana": ""
+  }
+]

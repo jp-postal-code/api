@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4400837",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊橋市",
+    "address1": "三ノ輪町本興寺",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨハシシ",
+    "address1Kana": "ミノワチョウホンコウジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4400837",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊橋市",
+    "address1": "三ノ輪町三ノ輪",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨハシシ",
+    "address1Kana": "ミノワチョウミノワ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9401163",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "長岡市",
+    "address1": "平島",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ナガオカシ",
+    "address1Kana": "ヘイジマ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9401163",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "長岡市",
+    "address1": "平島町",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "ナガオカシ",
+    "address1Kana": "ヘイジママチ",
+    "address2Kana": ""
+  }
+]

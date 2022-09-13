@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6980041",
+    "regionId": 32,
+    "region": "島根県",
+    "locality": "益田市",
+    "address1": "高津",
+    "address2": "",
+    "regionKana": "シマネケン",
+    "localityKana": "マスダシ",
+    "address1Kana": "タカツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6980041",
+    "regionId": 32,
+    "region": "島根県",
+    "locality": "益田市",
+    "address1": "高津町",
+    "address2": "",
+    "regionKana": "シマネケン",
+    "localityKana": "マスダシ",
+    "address1Kana": "タカツチョウ",
+    "address2Kana": ""
+  }
+]

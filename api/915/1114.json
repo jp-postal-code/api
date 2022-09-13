@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9151114",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "南条郡南越前町",
+    "address1": "糠",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ナンジョウグンミナミエチゼンチョウ",
+    "address1Kana": "ヌカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9151114",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "南条郡南越前町",
+    "address1": "",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ナンジョウグンミナミエチゼンチョウ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9151114",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "南条郡南越前町",
+    "address1": "八田",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "ナンジョウグンミナミエチゼンチョウ",
+    "address1Kana": "ハッタ",
+    "address2Kana": ""
+  }
+]

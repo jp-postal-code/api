@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "今泉",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "イマイズミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "上屋敷",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "カミヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "下園",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "シモゾノ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "新堀向",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "シンボリムカイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "西舘",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ニシダテ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "東谷地",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ヒガシヤチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9693131",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "耶麻郡猪苗代町",
+    "address1": "村南",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ヤマグンイナワシロマチ",
+    "address1Kana": "ムラミナミ",
+    "address2Kana": ""
+  }
+]

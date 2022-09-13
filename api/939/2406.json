@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9392406",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町高峯",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチタカミネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9392406",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "八尾町乗嶺",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤツオマチノリミネ",
+    "address2Kana": ""
+  }
+]

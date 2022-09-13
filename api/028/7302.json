@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "0287302",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "八幡平市",
+    "address1": "八幡平温泉郷",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ハチマンタイシ",
+    "address1Kana": "ハチマンタイオンセンキョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0287302",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "八幡平市",
+    "address1": "松尾寄木",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ハチマンタイシ",
+    "address1Kana": "マツオヨリキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0287302",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "八幡平市",
+    "address1": "松川温泉",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "ハチマンタイシ",
+    "address1Kana": "マツカワオンセン",
+    "address2Kana": ""
+  }
+]

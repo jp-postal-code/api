@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9302114",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "山田居舟",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤマダイブネ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9302114",
+    "regionId": 16,
+    "region": "富山県",
+    "locality": "富山市",
+    "address1": "山田鍋谷",
+    "address2": "",
+    "regionKana": "トヤマケン",
+    "localityKana": "トヤマシ",
+    "address1Kana": "ヤマダナベタニ",
+    "address2Kana": ""
+  }
+]

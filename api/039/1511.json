@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0391511",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "鍜冶屋窪",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カジヤクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391511",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "鍜冶屋窪上ミ",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カジヤクボカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391511",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "鍜冶屋敷",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "カジヤシキ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0391511",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "三戸郡五戸町",
+    "address1": "丁塚",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "サンノヘグンゴノヘマチ",
+    "address1Kana": "チョウヅカ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9272333",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "輪島市",
+    "address1": "門前町館分",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ワジマシ",
+    "address1Kana": "モンゼンマチタチブン",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9272333",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "輪島市",
+    "address1": "門前町馬場",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ワジマシ",
+    "address1Kana": "モンゼンマチバンバ",
+    "address2Kana": ""
+  }
+]

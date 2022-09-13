@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9270046",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡穴水町",
+    "address1": "越渡",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンアナミズマチ",
+    "address1Kana": "コエト",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9270046",
+    "regionId": 17,
+    "region": "石川県",
+    "locality": "鳳珠郡穴水町",
+    "address1": "汁谷",
+    "address2": "",
+    "regionKana": "イシカワケン",
+    "localityKana": "ホウスグンアナミズマチ",
+    "address1Kana": "シルタニ",
+    "address2Kana": ""
+  }
+]

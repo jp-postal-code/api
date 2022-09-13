@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9812143",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "虚空蔵上",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コクゾウカミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812143",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "虚空蔵中",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コクゾウナカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9812143",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "伊具郡丸森町",
+    "address1": "虚空蔵下",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "イググンマルモリマチ",
+    "address1Kana": "コクゾウシモ",
+    "address2Kana": ""
+  }
+]

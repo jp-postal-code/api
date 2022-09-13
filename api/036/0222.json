@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0360222",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "長田沼田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "オサダヌマタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360222",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "長田野田",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "オサダノダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360222",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "長田村下",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "オサダムラシタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0360222",
+    "regionId": 2,
+    "region": "青森県",
+    "locality": "平川市",
+    "address1": "長田元村",
+    "address2": "",
+    "regionKana": "アオモリケン",
+    "localityKana": "ヒラカワシ",
+    "address1Kana": "オサダモトムラ",
+    "address2Kana": ""
+  }
+]

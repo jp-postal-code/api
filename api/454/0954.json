@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4540954",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "名古屋市中川区",
+    "address1": "江松",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ナゴヤシナカガワク",
+    "address1Kana": "エマツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4540954",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "名古屋市中川区",
+    "address1": "富田町江松",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ナゴヤシナカガワク",
+    "address1Kana": "トミダチョウエマツ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9470042",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "小千谷市",
+    "address1": "平沢",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "オヂヤシ",
+    "address1Kana": "ヒラサワ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9470042",
+    "regionId": 15,
+    "region": "新潟県",
+    "locality": "小千谷市",
+    "address1": "平沢新田",
+    "address2": "",
+    "regionKana": "ニイガタケン",
+    "localityKana": "オヂヤシ",
+    "address1Kana": "ヒラサワシンデン",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "3800811",
+    "regionId": 20,
+    "region": "長野県",
+    "locality": "長野市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ナガノケン",
+    "localityKana": "ナガノシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "3800811",
+    "regionId": 20,
+    "region": "長野県",
+    "locality": "長野市",
+    "address1": "東鶴賀町",
+    "address2": "",
+    "regionKana": "ナガノケン",
+    "localityKana": "ナガノシ",
+    "address1Kana": "ヒガシツルガマチ",
+    "address2Kana": ""
+  }
+]

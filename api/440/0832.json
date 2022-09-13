@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4400832",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊橋市",
+    "address1": "岩田町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨハシシ",
+    "address1Kana": "イワタチョウ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4400832",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "豊橋市",
+    "address1": "中岩田",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "トヨハシシ",
+    "address1Kana": "ナカイワタ",
+    "address2Kana": ""
+  }
+]

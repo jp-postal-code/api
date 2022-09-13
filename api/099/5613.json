@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0995613",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別郡滝上町",
+    "address1": "第３区",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツグンタキノウエチョウ",
+    "address1Kana": "ダイ3ク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0995613",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別郡滝上町",
+    "address1": "第４区",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツグンタキノウエチョウ",
+    "address1Kana": "ダイ4ク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0995613",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別郡滝上町",
+    "address1": "第５区",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツグンタキノウエチョウ",
+    "address1Kana": "ダイ5ク",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0995613",
+    "regionId": 1,
+    "region": "北海道",
+    "locality": "紋別郡滝上町",
+    "address1": "滝西",
+    "address2": "",
+    "regionKana": "ホッカイドウ",
+    "localityKana": "モンベツグンタキノウエチョウ",
+    "address1Kana": "タキニシ",
+    "address2Kana": ""
+  }
+]

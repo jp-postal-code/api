@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9637763",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "燕清水",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ツバメシミズ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637763",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "日向町",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "ヒナタマチ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9637763",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "田村郡三春町",
+    "address1": "持合畑",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "タムラグンミハルマチ",
+    "address1Kana": "モチアイバタ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9160055",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "鯖江市",
+    "address1": "上鯖江",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サバエシ",
+    "address1Kana": "カミサバエ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9160055",
+    "regionId": 18,
+    "region": "福井県",
+    "locality": "鯖江市",
+    "address1": "上鯖江町",
+    "address2": "",
+    "regionKana": "フクイケン",
+    "localityKana": "サバエシ",
+    "address1Kana": "カミサバエチョウ",
+    "address2Kana": ""
+  }
+]

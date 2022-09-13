@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "6780092",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "矢野町小河",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ヤノチョウオウゴ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780092",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "矢野町上土井",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ヤノチョウカミドイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6780092",
+    "regionId": 28,
+    "region": "兵庫県",
+    "locality": "相生市",
+    "address1": "矢野町下田",
+    "address2": "",
+    "regionKana": "ヒョウゴケン",
+    "localityKana": "アイオイシ",
+    "address1Kana": "ヤノチョウシモダ",
+    "address2Kana": ""
+  }
+]

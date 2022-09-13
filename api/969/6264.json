@@ -1,0 +1,38 @@
+[
+  {
+    "postalCode": "9696264",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "高田",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "タカダ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696264",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "高田乙",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "タカダオツ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9696264",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "大沼郡会津美里町",
+    "address1": "高田甲",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "オオヌマグンアイヅミサトマチ",
+    "address1Kana": "タカダコウ",
+    "address2Kana": ""
+  }
+]

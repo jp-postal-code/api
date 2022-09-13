@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "6820151",
+    "regionId": 31,
+    "region": "鳥取県",
+    "locality": "東伯郡三朝町",
+    "address1": "今泉",
+    "address2": "",
+    "regionKana": "トットリケン",
+    "localityKana": "トウハクグンミササチョウ",
+    "address1Kana": "イマイズミ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "6820151",
+    "regionId": 31,
+    "region": "鳥取県",
+    "locality": "東伯郡三朝町",
+    "address1": "若宮",
+    "address2": "",
+    "regionKana": "トットリケン",
+    "localityKana": "トウハクグンミササチョウ",
+    "address1Kana": "ワカミヤ",
+    "address2Kana": ""
+  }
+]

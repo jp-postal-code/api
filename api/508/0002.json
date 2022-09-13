@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "5080002",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "中津川市",
+    "address1": "",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ナカツガワシ",
+    "address1Kana": "",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "5080002",
+    "regionId": 21,
+    "region": "岐阜県",
+    "locality": "中津川市",
+    "address1": "阿木川上",
+    "address2": "",
+    "regionKana": "ギフケン",
+    "localityKana": "ナカツガワシ",
+    "address1Kana": "アギカオレ",
+    "address2Kana": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "9890535",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "夏梨平",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "ナツナシダイラ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9890535",
+    "regionId": 4,
+    "region": "宮城県",
+    "locality": "刈田郡七ヶ宿町",
+    "address1": "野沢倉山",
+    "address2": "",
+    "regionKana": "ミヤギケン",
+    "localityKana": "カッタグンシチカシュクマチ",
+    "address1Kana": "ノザワクラヤマ",
+    "address2Kana": ""
+  }
+]

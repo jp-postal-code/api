@@ -1,0 +1,50 @@
+[
+  {
+    "postalCode": "0288407",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "川平",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "カワダイ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288407",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "菅窪",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "スゲノクボ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288407",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "田野畑",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "タノハタ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "0288407",
+    "regionId": 3,
+    "region": "岩手県",
+    "locality": "下閉伊郡田野畑村",
+    "address1": "和野",
+    "address2": "",
+    "regionKana": "イワテケン",
+    "localityKana": "シモヘイグンタノハタムラ",
+    "address1Kana": "ワノ",
+    "address2Kana": ""
+  }
+]

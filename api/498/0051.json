@@ -1,0 +1,26 @@
+[
+  {
+    "postalCode": "4980051",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "狐地",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "キツネジ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "4980051",
+    "regionId": 23,
+    "region": "愛知県",
+    "locality": "弥富市",
+    "address1": "狐地町",
+    "address2": "",
+    "regionKana": "アイチケン",
+    "localityKana": "ヤトミシ",
+    "address1Kana": "キツネジチョウ",
+    "address2Kana": ""
+  }
+]

@@ -40,19 +40,21 @@ jobs:
         run: |
           rm -rf api
           yarn adg generate api ./api --pretty
-      - name: Git Auto Commit
-        id: git-auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      - name: Commit
+        id: commit
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: 'fix: update addresses'
+          message: 'fix: update addresses'
+          fetch: false
+          default_author: github_actions
       - name: Minify json
-        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
+        if: ${{ steps.commit.outputs.committed == 'true' }}
         run: yarn adg minify 'api/**/*.json'
       - uses: actions/upload-pages-artifact@v1
-        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
+        if: ${{ steps.commit.outputs.committed == 'true' }}
         with:
           path: api
       - name:
-        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
+        if: ${{ steps.commit.outputs.committed == 'true' }}
         id: deployment
         uses: actions/deploy-pages@v1

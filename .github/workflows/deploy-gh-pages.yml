@@ -46,13 +46,13 @@ jobs:
         with:
           commit_message: 'fix: update addresses'
       - name: Minify json
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
         run: yarn adg minify 'api/**/*.json'
       - uses: actions/upload-pages-artifact@v1
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
         with:
           path: api
       - name:
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: ${{ steps.auto-commit-action.outputs.changes_detected == 'true' }}
         id: deployment
         uses: actions/deploy-pages@v1

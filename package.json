@@ -11,13 +11,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@jp-postal-code/address-data-generator": "^0.1.0"
+    "@jp-postal-code/address-data-generator": "0.1.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.1.2",
-    "@commitlint/config-conventional": "^17.1.0",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "@commitlint/cli": "17.1.2",
+    "@commitlint/config-conventional": "17.1.0",
+    "husky": "8.0.1",
+    "lint-staged": "13.0.3",
+    "prettier": "2.7.1"
   }
 }

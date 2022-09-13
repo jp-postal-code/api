@@ -11,7 +11,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@jp-postal-code/address-data-generator": "0.1.0"
+    "@jp-postal-code/address-data-generator": "0.1.2"
   },
   "devDependencies": {
     "@commitlint/cli": "17.1.2",

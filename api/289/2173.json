@@ -4,6 +4,18 @@
     "regionId": 12,
     "region": "千葉県",
     "locality": "匝瑳市",
+    "address1": "飯多香",
+    "address2": "",
+    "regionKana": "チバケン",
+    "localityKana": "ソウサシ",
+    "address1Kana": "イイタカ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "2892173",
+    "regionId": 12,
+    "region": "千葉県",
+    "locality": "匝瑳市",
     "address1": "飯高",
     "address2": "",
     "regionKana": "チバケン",

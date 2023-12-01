@@ -10,5 +10,17 @@
     "localityKana": "ソウサシ",
     "address1Kana": "カタコ",
     "address2Kana": ""
+  },
+  {
+    "postalCode": "2892175",
+    "regionId": 12,
+    "region": "千葉県",
+    "locality": "匝瑳市",
+    "address1": "加多古",
+    "address2": "",
+    "regionKana": "チバケン",
+    "localityKana": "ソウサシ",
+    "address1Kana": "カタコ",
+    "address2Kana": ""
   }
 ]

@@ -46,5 +46,29 @@
     "localityKana": "ダテシ",
     "address1Kana": "ヤナガワマチサトミヤマ",
     "address2Kana": ""
+  },
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町下足駄木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチシモアシナギ",
+    "address2Kana": ""
+  },
+  {
+    "postalCode": "9600723",
+    "regionId": 7,
+    "region": "福島県",
+    "locality": "伊達市",
+    "address1": "梁川町中足駄木",
+    "address2": "",
+    "regionKana": "フクシマケン",
+    "localityKana": "ダテシ",
+    "address1Kana": "ヤナガワマチナカアシナギ",
+    "address2Kana": ""
   }
 ]

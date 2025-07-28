@@ -52,5 +52,5 @@ jobs:
       - uses: actions/upload-pages-artifact@v1
         with:
           path: api
-      - uses: actions/deploy-pages@v2
+      - uses: actions/deploy-pages@v4
         id: deployment
